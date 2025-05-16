@@ -1,0 +1,80 @@
+magic
+tech ihp-sg13g2
+magscale 1 1
+timestamp 1747405728
+<< checkpaint >>
+rect 0 0 1 1
+<< metal1 >>
+rect -100 4678 4452 4728
+<< metal1 >>
+rect -100 -100 4452 -50
+<< metal2 >>
+rect -100 -50 -50 4678
+<< metal2 >>
+rect 4402 -50 4452 4678
+<< metal1 >>
+rect -107 4671 -43 4735
+<< metal2 >>
+rect -107 4671 -43 4735
+<< via1 >>
+rect -100 4678 -50 4728
+<< metal1 >>
+rect -107 -107 -43 -43
+<< metal2 >>
+rect -107 -107 -43 -43
+<< via1 >>
+rect -100 -100 -50 -50
+<< metal1 >>
+rect 4395 4671 4459 4735
+<< metal2 >>
+rect 4395 4671 4459 4735
+<< via1 >>
+rect 4402 4678 4452 4728
+<< metal1 >>
+rect 4395 -107 4459 -43
+<< metal2 >>
+rect 4395 -107 4459 -43
+<< via1 >>
+rect 4402 -100 4452 -50
+<< metal1 >>
+rect -200 4778 4552 4828
+<< metal1 >>
+rect -200 -200 4552 -150
+<< metal2 >>
+rect -200 -150 -150 4778
+<< metal2 >>
+rect 4502 -150 4552 4778
+<< metal1 >>
+rect -207 4771 -143 4835
+<< metal2 >>
+rect -207 4771 -143 4835
+<< via1 >>
+rect -200 4778 -150 4828
+<< metal1 >>
+rect -207 -207 -143 -143
+<< metal2 >>
+rect -207 -207 -143 -143
+<< via1 >>
+rect -200 -200 -150 -150
+<< metal1 >>
+rect 4495 4771 4559 4835
+<< metal2 >>
+rect 4495 4771 4559 4835
+<< via1 >>
+rect 4502 4778 4552 4828
+<< metal1 >>
+rect 4495 -207 4559 -143
+<< metal2 >>
+rect 4495 -207 4559 -143
+<< via1 >>
+rect 4502 -200 4552 -150
+use COMP2 U1_COMP2 
+transform 1 0 0 0 1 0
+box 0 0 3138 4678
+<< labels >>
+flabel metal1 s -200 4778 4552 4828 0 FreeSans 400 0 0 0 VDD_1V8
+port 66 nsew signal bidirectional
+flabel metal1 s -100 4678 4452 4728 0 FreeSans 400 0 0 0 VSS
+port 67 nsew signal bidirectional
+<< properties >>
+<< end >>
