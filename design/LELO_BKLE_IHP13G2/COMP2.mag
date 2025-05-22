@@ -1,301 +1,301 @@
 magic
 tech ihp-sg13g2
 magscale 1 1
-timestamp 1747405728
+timestamp 1747897834
 << checkpaint >>
 rect 0 0 1 1
 use LELOATR_NCH_4C5F0  diff1_MN1 ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 788 0 1 1164
+timestamp 1747897834
+transform 1 0 738 0 1 1114
 box 0 0 756 400
 use LELOATR_NCH_4C5F0  diff1_MN2 ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 1544 0 1 1164
+timestamp 1747897834
+transform 1 0 1494 0 1 1114
 box 0 0 756 400
 use LELOATR_PCH_4C5F0  load1_MP5 ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 788 0 1 2664
+timestamp 1747897834
+transform 1 0 738 0 1 2614
 box 0 0 756 400
 use LELOATR_PCH_4CTAPBOT  load1_MP5_TAPBOT ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 788 0 1 2424
+timestamp 1747897834
+transform 1 0 738 0 1 2374
 box 0 0 756 240
 use LELOATR_PCH_4C5F0  load1_MP6 ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 1544 0 1 2664
+timestamp 1747897834
+transform 1 0 1494 0 1 2614
 box 0 0 756 400
 use LELOATR_PCH_4CTAPBOT  load1_MP6_TAPBOT ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 1544 0 1 2424
+timestamp 1747897834
+transform 1 0 1494 0 1 2374
 box 0 0 756 240
 use LELOATR_PCH_4C5F0  load1_MP1 ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 788 0 1 3064
+timestamp 1747897834
+transform 1 0 738 0 1 3014
 box 0 0 756 400
 use LELOATR_PCH_4C5F0  load1_MP2 ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 1544 0 1 3064
+timestamp 1747897834
+transform 1 0 1494 0 1 3014
 box 0 0 756 400
 use LELOATR_NCH_4C5F0  mirror2_MN4 ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 788 0 1 1564
+timestamp 1747897834
+transform 1 0 738 0 1 1514
 box 0 0 756 400
 use LELOATR_NCH_4CTAPTOP  mirror2_MN4_TAPTOP ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 788 0 1 1964
+timestamp 1747897834
+transform 1 0 738 0 1 1914
 box 0 0 756 240
 use LELOATR_NCH_4C5F0  mirror2_MN3 ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 1544 0 1 1564
+timestamp 1747897834
+transform 1 0 1494 0 1 1514
 box 0 0 756 400
 use LELOATR_NCH_4CTAPTOP  mirror2_MN3_TAPTOP ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 1544 0 1 1964
+timestamp 1747897834
+transform 1 0 1494 0 1 1914
 box 0 0 756 240
 use LELOATR_NCH_4C5F0  mirror1_MN5 ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 788 0 1 764
+timestamp 1747897834
+transform 1 0 738 0 1 714
 box 0 0 756 400
 use LELOATR_NCH_4CTAPBOT  mirror1_MN5_TAPBOT ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 788 0 1 524
+timestamp 1747897834
+transform 1 0 738 0 1 474
 box 0 0 756 240
 use LELOATR_NCH_4C5F0  mirror1_MN6 ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 1544 0 1 764
+timestamp 1747897834
+transform 1 0 1494 0 1 714
 box 0 0 756 400
 use LELOATR_NCH_4CTAPBOT  mirror1_MN6_TAPBOT ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 1544 0 1 524
+timestamp 1747897834
+transform 1 0 1494 0 1 474
 box 0 0 756 240
 use LELOATR_PCH_4C5F0  load1_MP3 ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 788 0 1 3464
+timestamp 1747897834
+transform 1 0 738 0 1 3414
 box 0 0 756 400
 use LELOATR_PCH_4CTAPTOP  load1_MP3_TAPTOP ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 788 0 1 3864
+timestamp 1747897834
+transform 1 0 738 0 1 3814
 box 0 0 756 240
 use LELOATR_PCH_4C5F0  load1_MP4 ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 1544 0 1 3464
+timestamp 1747897834
+transform 1 0 1494 0 1 3414
 box 0 0 756 400
 use LELOATR_PCH_4CTAPTOP  load1_MP4_TAPTOP ../LELO_ATR_IHP13G2
-timestamp 1747405728
-transform 1 0 1544 0 1 3864
+timestamp 1747897834
+transform 1 0 1494 0 1 3814
 box 0 0 756 240
 << metal3 >>
-rect 2048 2685 2207 2715
+rect 1998 2635 2157 2665
 << metal4 >>
-rect 2177 781 2207 2715
+rect 2127 731 2157 2665
 << metal3 >>
-rect 2048 781 2207 811
+rect 1998 731 2157 761
 << metal3 >>
-rect 2170 2678 2214 2722
+rect 2120 2628 2164 2672
 << metal4 >>
-rect 2170 2678 2214 2722
+rect 2120 2628 2164 2672
 << via3 >>
-rect 2177 2685 2207 2715
+rect 2127 2635 2157 2665
 << metal3 >>
-rect 2170 774 2214 818
+rect 2120 724 2164 768
 << metal4 >>
-rect 2170 774 2214 818
+rect 2120 724 2164 768
 << via3 >>
-rect 2177 781 2207 811
+rect 2127 731 2157 761
 << metal3 >>
-rect 913 1743 1665 1773
+rect 863 1693 1615 1723
 << metal4 >>
-rect 1655 3263 1685 3678
+rect 1605 3213 1635 3628
 << metal4 >>
-rect 1655 3488 1685 3678
+rect 1605 3438 1635 3628
 << metal3 >>
-rect 1271 3488 1685 3518
+rect 1221 3438 1635 3468
 << metal3 >>
-rect 903 3488 1301 3518
+rect 853 3438 1251 3468
 << metal4 >>
-rect 903 3248 933 3518
+rect 853 3198 883 3468
 << metal3 >>
-rect 775 3248 933 3278
+rect 725 3198 883 3228
 << metal4 >>
-rect 775 1184 805 3278
+rect 725 1134 755 3228
 << metal3 >>
-rect 775 1184 1286 1214
+rect 725 1134 1236 1164
 << metal3 >>
-rect 1648 3481 1692 3525
+rect 1598 3431 1642 3475
 << metal4 >>
-rect 1648 3481 1692 3525
+rect 1598 3431 1642 3475
 << via3 >>
-rect 1655 3488 1685 3518
+rect 1605 3438 1635 3468
 << metal3 >>
-rect 896 3481 940 3525
+rect 846 3431 890 3475
 << metal4 >>
-rect 896 3481 940 3525
+rect 846 3431 890 3475
 << via3 >>
-rect 903 3488 933 3518
+rect 853 3438 883 3468
 << metal3 >>
-rect 896 3241 940 3285
+rect 846 3191 890 3235
 << metal4 >>
-rect 896 3241 940 3285
+rect 846 3191 890 3235
 << via3 >>
-rect 903 3248 933 3278
+rect 853 3198 883 3228
 << metal3 >>
-rect 768 3241 812 3285
+rect 718 3191 762 3235
 << metal4 >>
-rect 768 3241 812 3285
+rect 718 3191 762 3235
 << via3 >>
-rect 775 3248 805 3278
+rect 725 3198 755 3228
 << metal3 >>
-rect 768 1177 812 1221
+rect 718 1127 762 1171
 << metal4 >>
-rect 768 1177 812 1221
+rect 718 1127 762 1171
 << via3 >>
-rect 775 1184 805 1214
+rect 725 1134 755 1164
 << metal4 >>
-rect 1266 1340 1296 1595
+rect 1216 1290 1246 1545
 << metal3 >>
-rect 1026 1340 1296 1370
+rect 976 1290 1246 1320
 << metal4 >>
-rect 1026 1340 1056 1498
+rect 976 1290 1006 1448
 << metal3 >>
-rect 1026 1468 1312 1498
+rect 976 1418 1262 1448
 << metal3 >>
-rect 1282 1468 1793 1498
+rect 1232 1418 1743 1448
 << metal3 >>
-rect 1259 1333 1303 1377
+rect 1209 1283 1253 1327
 << metal4 >>
-rect 1259 1333 1303 1377
+rect 1209 1283 1253 1327
 << via3 >>
-rect 1266 1340 1296 1370
+rect 1216 1290 1246 1320
 << metal3 >>
-rect 1019 1333 1063 1377
+rect 969 1283 1013 1327
 << metal4 >>
-rect 1019 1333 1063 1377
+rect 969 1283 1013 1327
 << via3 >>
-rect 1026 1340 1056 1370
+rect 976 1290 1006 1320
 << metal3 >>
-rect 1019 1461 1063 1505
+rect 969 1411 1013 1455
 << metal4 >>
-rect 1019 1461 1063 1505
+rect 969 1411 1013 1455
 << via3 >>
-rect 1026 1468 1056 1498
+rect 976 1418 1006 1448
 << metal3 >>
-rect 675 3648 914 3678
+rect 625 3598 864 3628
 << metal4 >>
-rect 675 2848 705 3678
+rect 625 2798 655 3628
 << metal3 >>
-rect 675 2848 929 2878
+rect 625 2798 879 2828
 << metal3 >>
-rect 899 2848 1681 2878
+rect 849 2798 1631 2828
 << metal4 >>
-rect 1651 2848 1681 3102
+rect 1601 2798 1631 3052
 << metal3 >>
-rect 1651 3072 1921 3102
+rect 1601 3022 1871 3052
 << metal4 >>
-rect 1891 3072 1921 3230
+rect 1841 3022 1871 3180
 << metal3 >>
-rect 1891 3200 2065 3230
+rect 1841 3150 2015 3180
 << metal4 >>
-rect 2035 3200 2065 3518
+rect 1985 3150 2015 3468
 << metal3 >>
-rect 2035 3488 2305 3518
+rect 1985 3438 2255 3468
 << metal4 >>
-rect 2275 1184 2305 3518
+rect 2225 1134 2255 3468
 << metal3 >>
-rect 2050 1184 2305 1214
+rect 2000 1134 2255 1164
 << metal3 >>
-rect 668 3641 712 3685
+rect 618 3591 662 3635
 << metal4 >>
-rect 668 3641 712 3685
+rect 618 3591 662 3635
 << via3 >>
-rect 675 3648 705 3678
+rect 625 3598 655 3628
 << metal3 >>
-rect 668 2841 712 2885
+rect 618 2791 662 2835
 << metal4 >>
-rect 668 2841 712 2885
+rect 618 2791 662 2835
 << via3 >>
-rect 675 2848 705 2878
+rect 625 2798 655 2828
 << metal3 >>
-rect 1644 2841 1688 2885
+rect 1594 2791 1638 2835
 << metal4 >>
-rect 1644 2841 1688 2885
+rect 1594 2791 1638 2835
 << via3 >>
-rect 1651 2848 1681 2878
+rect 1601 2798 1631 2828
 << metal3 >>
-rect 1644 3065 1688 3109
+rect 1594 3015 1638 3059
 << metal4 >>
-rect 1644 3065 1688 3109
+rect 1594 3015 1638 3059
 << via3 >>
-rect 1651 3072 1681 3102
+rect 1601 3022 1631 3052
 << metal3 >>
-rect 1884 3065 1928 3109
+rect 1834 3015 1878 3059
 << metal4 >>
-rect 1884 3065 1928 3109
+rect 1834 3015 1878 3059
 << via3 >>
-rect 1891 3072 1921 3102
+rect 1841 3022 1871 3052
 << metal3 >>
-rect 1884 3193 1928 3237
+rect 1834 3143 1878 3187
 << metal4 >>
-rect 1884 3193 1928 3237
+rect 1834 3143 1878 3187
 << via3 >>
-rect 1891 3200 1921 3230
+rect 1841 3150 1871 3180
 << metal3 >>
-rect 2028 3193 2072 3237
+rect 1978 3143 2022 3187
 << metal4 >>
-rect 2028 3193 2072 3237
+rect 1978 3143 2022 3187
 << via3 >>
-rect 2035 3200 2065 3230
+rect 1985 3150 2015 3180
 << metal3 >>
-rect 2028 3481 2072 3525
+rect 1978 3431 2022 3475
 << metal4 >>
-rect 2028 3481 2072 3525
+rect 1978 3431 2022 3475
 << via3 >>
-rect 2035 3488 2065 3518
+rect 1985 3438 2015 3468
 << metal3 >>
-rect 2268 3481 2312 3525
+rect 2218 3431 2262 3475
 << metal4 >>
-rect 2268 3481 2312 3525
+rect 2218 3431 2262 3475
 << via3 >>
-rect 2275 3488 2305 3518
+rect 2225 3438 2255 3468
 << metal3 >>
-rect 2268 1177 2312 1221
+rect 2218 1127 2262 1171
 << metal4 >>
-rect 2268 1177 2312 1221
+rect 2218 1127 2262 1171
 << via3 >>
-rect 2275 1184 2305 1214
+rect 2225 1134 2255 1164
 << metal3 >>
-rect 902 944 1669 974
+rect 852 894 1619 924
 << metal3 >>
-rect 902 944 1444 974
+rect 852 894 1394 924
 << metal4 >>
-rect 1414 944 1444 3118
+rect 1364 894 1394 3068
 << metal3 >>
-rect 1285 3088 1444 3118
+rect 1235 3038 1394 3068
 << metal3 >>
-rect 1407 937 1451 981
+rect 1357 887 1401 931
 << metal4 >>
-rect 1407 937 1451 981
+rect 1357 887 1401 931
 << via3 >>
-rect 1414 944 1444 974
+rect 1364 894 1394 924
 << metal3 >>
-rect 1407 3081 1451 3125
+rect 1357 3031 1401 3075
 << metal4 >>
-rect 1407 3081 1451 3125
+rect 1357 3031 1401 3075
 << via3 >>
-rect 1414 3088 1444 3118
+rect 1364 3038 1394 3068
 << metal1 >>
-rect 100 4478 2988 4528
+rect 100 4378 2888 4428
 << metal1 >>
-rect 100 100 2988 150
+rect 100 100 2888 150
 << metal2 >>
-rect 100 150 150 4478
+rect 100 150 150 4378
 << metal2 >>
-rect 2938 150 2988 4478
+rect 2838 150 2888 4378
 << metal1 >>
-rect 93 4471 157 4535
+rect 93 4371 157 4435
 << metal2 >>
-rect 93 4471 157 4535
+rect 93 4371 157 4435
 << via1 >>
-rect 100 4478 150 4528
+rect 100 4378 150 4428
 << metal1 >>
 rect 93 93 157 157
 << metal2 >>
@@ -303,31 +303,31 @@ rect 93 93 157 157
 << via1 >>
 rect 100 100 150 150
 << metal1 >>
-rect 2931 4471 2995 4535
+rect 2831 4371 2895 4435
 << metal2 >>
-rect 2931 4471 2995 4535
+rect 2831 4371 2895 4435
 << via1 >>
-rect 2938 4478 2988 4528
+rect 2838 4378 2888 4428
 << metal1 >>
-rect 2931 93 2995 157
+rect 2831 93 2895 157
 << metal2 >>
-rect 2931 93 2995 157
+rect 2831 93 2895 157
 << via1 >>
-rect 2938 100 2988 150
+rect 2838 100 2888 150
 << metal1 >>
-rect 0 4578 3088 4628
+rect 0 4478 2988 4528
 << metal1 >>
-rect 0 0 3088 50
+rect 0 0 2988 50
 << metal2 >>
-rect 0 50 50 4578
+rect 0 50 50 4478
 << metal2 >>
-rect 3038 50 3088 4578
+rect 2938 50 2988 4478
 << metal1 >>
-rect -7 4571 57 4635
+rect -7 4471 57 4535
 << metal2 >>
-rect -7 4571 57 4635
+rect -7 4471 57 4535
 << via1 >>
-rect 0 4578 50 4628
+rect 0 4478 50 4528
 << metal1 >>
 rect -7 -7 57 57
 << metal2 >>
@@ -335,316 +335,313 @@ rect -7 -7 57 57
 << via1 >>
 rect 0 0 50 50
 << metal1 >>
-rect 3031 4571 3095 4635
+rect 2931 4471 2995 4535
 << metal2 >>
-rect 3031 4571 3095 4635
+rect 2931 4471 2995 4535
 << via1 >>
-rect 3038 4578 3088 4628
+rect 2938 4478 2988 4528
 << metal1 >>
-rect 3031 -7 3095 57
+rect 2931 -7 2995 57
 << metal2 >>
-rect 3031 -7 3095 57
+rect 2931 -7 2995 57
 << via1 >>
-rect 3038 0 3088 50
+rect 2938 0 2988 50
 << metal1 >>
-rect 725 2964 1103 3004
+rect 675 2914 1053 2954
 << metal1 >>
-rect 1229 2844 1439 2884
+rect 1179 2794 1389 2834
 << metal1 >>
-rect 1481 2964 1859 3004
+rect 1431 2914 1809 2954
 << metal1 >>
-rect 725 3364 1103 3404
+rect 675 3314 1053 3354
 << metal1 >>
-rect 1481 3364 1859 3404
+rect 1431 3314 1809 3354
 << metal1 >>
-rect 1985 3244 2195 3284
+rect 1935 3194 2145 3234
 << metal1 >>
-rect 725 1864 1103 1904
+rect 675 1814 1053 1854
 << metal1 >>
-rect 1481 1864 1859 1904
+rect 1431 1814 1809 1854
 << metal1 >>
-rect 1985 1744 2195 1784
+rect 1935 1694 2145 1734
 << metal1 >>
-rect 725 1064 1103 1104
+rect 675 1014 1053 1054
 << metal1 >>
-rect 1229 944 1439 984
+rect 1179 894 1389 934
 << metal1 >>
-rect 1481 1064 1859 1104
+rect 1431 1014 1809 1054
 << metal1 >>
-rect 725 3764 1103 3804
+rect 675 3714 1053 3754
 << metal1 >>
-rect 1481 3764 1859 3804
+rect 1431 3714 1809 3754
 << metal1 >>
-rect 0 2481 3088 2607
+rect 0 2431 2988 2557
 << metal1 >>
-rect -7 2474 57 2614
+rect -7 2424 57 2564
 << metal2 >>
-rect -7 2474 57 2614
+rect -7 2424 57 2564
 << via1 >>
-rect 0 2481 50 2607
+rect 0 2431 50 2557
 << metal1 >>
-rect 3031 2474 3095 2614
+rect 2931 2424 2995 2564
 << metal2 >>
-rect 3031 2474 3095 2614
+rect 2931 2424 2995 2564
 << via1 >>
-rect 3038 2481 3088 2607
+rect 2938 2431 2988 2557
 << metal1 >>
-rect 100 2021 2988 2147
+rect 100 1971 2888 2097
 << metal1 >>
-rect 93 2014 157 2154
+rect 93 1964 157 2104
 << metal2 >>
-rect 93 2014 157 2154
+rect 93 1964 157 2104
 << via1 >>
-rect 100 2021 150 2147
+rect 100 1971 150 2097
 << metal1 >>
-rect 2931 2014 2995 2154
+rect 2831 1964 2895 2104
 << metal2 >>
-rect 2931 2014 2995 2154
+rect 2831 1964 2895 2104
 << via1 >>
-rect 2938 2021 2988 2147
+rect 2838 1971 2888 2097
 << metal1 >>
-rect 100 581 2988 707
+rect 100 531 2888 657
 << metal1 >>
-rect 93 574 157 714
+rect 93 524 157 664
 << metal2 >>
-rect 93 574 157 714
+rect 93 524 157 664
 << via1 >>
-rect 100 581 150 707
+rect 100 531 150 657
 << metal1 >>
-rect 2931 574 2995 714
+rect 2831 524 2895 664
 << metal2 >>
-rect 2931 574 2995 714
+rect 2831 524 2895 664
 << via1 >>
-rect 2938 581 2988 707
+rect 2838 531 2888 657
 << metal1 >>
-rect 0 3921 3088 4047
+rect 0 3871 2988 3997
 << metal1 >>
-rect -7 3914 57 4054
+rect -7 3864 57 4004
 << metal2 >>
-rect -7 3914 57 4054
+rect -7 3864 57 4004
 << via1 >>
-rect 0 3921 50 4047
+rect 0 3871 50 3997
 << metal1 >>
-rect 3031 3914 3095 4054
+rect 2931 3864 2995 4004
 << metal2 >>
-rect 3031 3914 3095 4054
+rect 2931 3864 2995 4004
 << via1 >>
-rect 3038 3921 3088 4047
+rect 2938 3871 2988 3997
 << metal2 >>
-rect 1978 2677 2118 2731
+rect 1928 2627 2068 2681
 << metal3 >>
-rect 1978 2677 2118 2731
+rect 1928 2627 2068 2681
 << via2 >>
-rect 1985 2684 2111 2724
+rect 1935 2634 2061 2674
 << metal2 >>
-rect 1978 777 2118 831
+rect 1928 727 2068 781
 << metal3 >>
-rect 1978 777 2118 831
+rect 1928 727 2068 781
 << via2 >>
-rect 1985 784 2111 824
+rect 1935 734 2061 774
 << metal2 >>
-rect 886 1737 942 1791
+rect 836 1687 892 1741
 << metal3 >>
-rect 886 1737 942 1791
+rect 836 1687 892 1741
 << via2 >>
-rect 893 1744 935 1784
+rect 843 1694 885 1734
 << metal2 >>
-rect 1642 1737 1698 1791
+rect 1592 1687 1648 1741
 << metal3 >>
-rect 1642 1737 1698 1791
+rect 1592 1687 1648 1741
 << via2 >>
-rect 1649 1744 1691 1784
+rect 1599 1694 1641 1734
 << metal2 >>
-rect 1222 1177 1362 1231
+rect 1172 1127 1312 1181
 << metal3 >>
-rect 1222 1177 1362 1231
+rect 1172 1127 1312 1181
 << via2 >>
-rect 1229 1184 1355 1224
+rect 1179 1134 1305 1174
 << metal2 >>
-rect 886 3237 942 3291
+rect 836 3187 892 3241
 << metal3 >>
-rect 886 3237 942 3291
+rect 836 3187 892 3241
 << metal4 >>
-rect 886 3237 942 3291
+rect 836 3187 892 3241
 << via3 >>
-rect 893 3244 935 3284
+rect 843 3194 885 3234
 << via2 >>
-rect 893 3244 935 3284
+rect 843 3194 885 3234
 << metal2 >>
-rect 886 3237 942 3291
+rect 836 3187 892 3241
 << metal3 >>
-rect 886 3237 942 3291
+rect 836 3187 892 3241
 << via2 >>
-rect 893 3244 935 3284
+rect 843 3194 885 3234
 << metal2 >>
-rect 1642 3237 1698 3291
+rect 1592 3187 1648 3241
 << metal3 >>
-rect 1642 3237 1698 3291
+rect 1592 3187 1648 3241
 << metal4 >>
-rect 1642 3237 1698 3291
+rect 1592 3187 1648 3241
 << via3 >>
-rect 1649 3244 1691 3284
+rect 1599 3194 1641 3234
 << via2 >>
-rect 1649 3244 1691 3284
+rect 1599 3194 1641 3234
 << metal2 >>
-rect 1222 3477 1362 3531
+rect 1172 3427 1312 3481
 << metal3 >>
-rect 1222 3477 1362 3531
+rect 1172 3427 1312 3481
 << via2 >>
-rect 1229 3484 1355 3524
+rect 1179 3434 1305 3474
 << metal2 >>
-rect 1222 3477 1362 3531
+rect 1172 3427 1312 3481
 << metal3 >>
-rect 1222 3477 1362 3531
+rect 1172 3427 1312 3481
 << via2 >>
-rect 1229 3484 1355 3524
+rect 1179 3434 1305 3474
 << metal2 >>
-rect 1642 3637 1698 3691
+rect 1592 3587 1648 3641
 << metal3 >>
-rect 1642 3637 1698 3691
+rect 1592 3587 1648 3641
 << metal4 >>
-rect 1642 3637 1698 3691
+rect 1592 3587 1648 3641
 << via3 >>
-rect 1649 3644 1691 3684
+rect 1599 3594 1641 3634
 << via2 >>
-rect 1649 3644 1691 3684
+rect 1599 3594 1641 3634
 << metal2 >>
-rect 1642 3637 1698 3691
+rect 1592 3587 1648 3641
 << metal3 >>
-rect 1642 3637 1698 3691
+rect 1592 3587 1648 3641
 << metal4 >>
-rect 1642 3637 1698 3691
+rect 1592 3587 1648 3641
 << via3 >>
-rect 1649 3644 1691 3684
+rect 1599 3594 1641 3634
 << via2 >>
-rect 1649 3644 1691 3684
+rect 1599 3594 1641 3634
 << metal2 >>
-rect 970 1457 1110 1511
+rect 920 1407 1060 1461
 << metal3 >>
-rect 970 1457 1110 1511
+rect 920 1407 1060 1461
 << metal4 >>
-rect 970 1457 1110 1511
+rect 920 1407 1060 1461
 << via3 >>
-rect 977 1464 1103 1504
+rect 927 1414 1053 1454
 << via2 >>
-rect 977 1464 1103 1504
+rect 927 1414 1053 1454
 << metal2 >>
-rect 970 1457 1110 1511
+rect 920 1407 1060 1461
 << metal3 >>
-rect 970 1457 1110 1511
+rect 920 1407 1060 1461
 << via2 >>
-rect 977 1464 1103 1504
+rect 927 1414 1053 1454
 << metal2 >>
-rect 1726 1457 1866 1511
+rect 1676 1407 1816 1461
 << metal3 >>
-rect 1726 1457 1866 1511
+rect 1676 1407 1816 1461
 << via2 >>
-rect 1733 1464 1859 1504
+rect 1683 1414 1809 1454
 << metal2 >>
-rect 1222 1577 1362 1631
+rect 1172 1527 1312 1581
 << metal3 >>
-rect 1222 1577 1362 1631
+rect 1172 1527 1312 1581
 << metal4 >>
-rect 1222 1577 1362 1631
+rect 1172 1527 1312 1581
 << via3 >>
-rect 1229 1584 1355 1624
+rect 1179 1534 1305 1574
 << via2 >>
-rect 1229 1584 1355 1624
+rect 1179 1534 1305 1574
 << metal2 >>
-rect 1978 1177 2118 1231
+rect 1928 1127 2068 1181
 << metal3 >>
-rect 1978 1177 2118 1231
+rect 1928 1127 2068 1181
 << via2 >>
-rect 1985 1184 2111 1224
+rect 1935 1134 2061 1174
 << metal2 >>
-rect 886 2837 942 2891
+rect 836 2787 892 2841
 << metal3 >>
-rect 886 2837 942 2891
+rect 836 2787 892 2841
 << via2 >>
-rect 893 2844 935 2884
+rect 843 2794 885 2834
 << metal2 >>
-rect 886 2837 942 2891
+rect 836 2787 892 2841
 << metal3 >>
-rect 886 2837 942 2891
+rect 836 2787 892 2841
 << via2 >>
-rect 893 2844 935 2884
+rect 843 2794 885 2834
 << metal2 >>
-rect 1642 2837 1698 2891
+rect 1592 2787 1648 2841
 << metal3 >>
-rect 1642 2837 1698 2891
+rect 1592 2787 1648 2841
 << via2 >>
-rect 1649 2844 1691 2884
+rect 1599 2794 1641 2834
 << metal2 >>
-rect 1642 2837 1698 2891
+rect 1592 2787 1648 2841
 << metal3 >>
-rect 1642 2837 1698 2891
+rect 1592 2787 1648 2841
 << metal4 >>
-rect 1642 2837 1698 2891
+rect 1592 2787 1648 2841
 << via3 >>
-rect 1649 2844 1691 2884
+rect 1599 2794 1641 2834
 << via2 >>
-rect 1649 2844 1691 2884
+rect 1599 2794 1641 2834
 << metal2 >>
-rect 886 3637 942 3691
+rect 836 3587 892 3641
 << metal3 >>
-rect 886 3637 942 3691
+rect 836 3587 892 3641
 << via2 >>
-rect 893 3644 935 3684
+rect 843 3594 885 3634
 << metal2 >>
-rect 1978 3477 2118 3531
+rect 1928 3427 2068 3481
 << metal3 >>
-rect 1978 3477 2118 3531
+rect 1928 3427 2068 3481
 << metal4 >>
-rect 1978 3477 2118 3531
+rect 1928 3427 2068 3481
 << via3 >>
-rect 1985 3484 2111 3524
+rect 1935 3434 2061 3474
 << via2 >>
-rect 1985 3484 2111 3524
+rect 1935 3434 2061 3474
 << metal2 >>
-rect 1978 3477 2118 3531
+rect 1928 3427 2068 3481
 << metal3 >>
-rect 1978 3477 2118 3531
+rect 1928 3427 2068 3481
 << via2 >>
-rect 1985 3484 2111 3524
+rect 1935 3434 2061 3474
 << metal2 >>
-rect 1222 3077 1362 3131
+rect 1172 3027 1312 3081
 << metal3 >>
-rect 1222 3077 1362 3131
+rect 1172 3027 1312 3081
 << via2 >>
-rect 1229 3084 1355 3124
+rect 1179 3034 1305 3074
 << metal2 >>
-rect 886 937 942 991
+rect 836 887 892 941
 << metal3 >>
-rect 886 937 942 991
+rect 836 887 892 941
 << via2 >>
-rect 893 944 935 984
+rect 843 894 885 934
 << metal2 >>
-rect 886 937 942 991
+rect 836 887 892 941
 << metal3 >>
-rect 886 937 942 991
+rect 836 887 892 941
 << via2 >>
-rect 893 944 935 984
+rect 843 894 885 934
 << metal2 >>
-rect 1642 937 1698 991
+rect 1592 887 1648 941
 << metal3 >>
-rect 1642 937 1698 991
+rect 1592 887 1648 941
 << via2 >>
-rect 1649 944 1691 984
-use TEST_AND_GATE U1_TEST_AND_GATE 
-transform 1 0 3138 0 1 0
-box 0 0 1264 1490
+rect 1599 894 1641 934
 << labels >>
-flabel metal1 s 100 4478 2988 4528 0 FreeSans 400 0 0 0 VSS
+flabel metal1 s 100 4378 2888 4428 0 FreeSans 400 0 0 0 VSS
 port 4 nsew signal bidirectional
-flabel metal1 s 0 4578 3088 4628 0 FreeSans 400 0 0 0 VDD
+flabel metal1 s 0 4478 2988 4528 0 FreeSans 400 0 0 0 VDD
 port 5 nsew signal bidirectional
-flabel metal2 s 893 1344 935 1384 0 FreeSans 400 0 0 0 VIP
+flabel metal2 s 843 1294 885 1334 0 FreeSans 400 0 0 0 VIP
 port 6 nsew signal bidirectional
-flabel metal2 s 1649 1344 1691 1384 0 FreeSans 400 0 0 0 VIN
+flabel metal2 s 1599 1294 1641 1334 0 FreeSans 400 0 0 0 VIN
 port 7 nsew signal bidirectional
-flabel metal3 s 2048 2685 2207 2715 0 FreeSans 400 0 0 0 VO
+flabel metal3 s 1998 2635 2157 2665 0 FreeSans 400 0 0 0 VO
 port 8 nsew signal bidirectional
-flabel metal3 s 913 1743 1665 1773 0 FreeSans 400 0 0 0 I_BIAS
+flabel metal3 s 863 1693 1615 1723 0 FreeSans 400 0 0 0 I_BIAS
 port 9 nsew signal bidirectional
 << properties >>
 << end >>

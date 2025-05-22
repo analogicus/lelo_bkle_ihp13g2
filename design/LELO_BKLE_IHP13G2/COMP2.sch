@@ -32,8 +32,6 @@ N 840 -660 930 -660 {
 lab=#net2}
 N 200 -660 322.5 -660 {
 lab=#net3}
-N 970 -220 970 -180 {
-lab=VO}
 N 235 -150 930 -150 {
 lab=#net4}
 N 160 -220 160 -180 {
@@ -129,22 +127,8 @@ lab=VO}
 N 400 -390 710 -390 {lab=VSS}
 N 590 -70 710 -70 {
 lab=VSS}
-N 1040 -380 1040 -330 {lab=VO}
-N 970 -380 1040 -380 {lab=VO}
-N 970 -410 970 -380 {
+N 970 -410 970 -180 {
 lab=VO}
-N 970 -220 1040 -220 {lab=VO}
-N 970 -280 970 -220 {
-lab=VO}
-N 970 -300 1000 -300 {lab=VO}
-N 970 -380 970 -300 {
-lab=VO}
-N 970 -280 1000 -280 {lab=VO}
-N 970 -300 970 -280 {
-lab=VO}
-N 1040 -330 1100 -330 {lab=VO}
-N 1040 -310 1100 -310 {lab=VO}
-N 1040 -310 1040 -220 {lab=VO}
 C {devices/ipin.sym} 105 -70 0 0 {name=p3 lab=VSS}
 C {devices/ipin.sym} 132.5 -740 0 0 {name=p1 lab=VDD}
 C {devices/ipin.sym} 330 -390 0 0 {name=p5 lab=VIP}
@@ -166,4 +150,3 @@ C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} 530 -660 0 1 {name=xload1_MP3
 C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} 650 -660 0 0 {name=xload1_MP4}
 C {devices/opin.sym} 1000 -410 0 0 {name=p4 lab=VO}
 C {devices/ipin.sym} 240 -350 0 0 {name=p2 lab=I_BIAS}
-C {LELO_BKLE_IHP13G2/TEST_AND_GATE.sym} 1250 -290 2 0 {name=xU1}

@@ -1,985 +1,967 @@
 magic
-tech sky130A
+tech ihp-sg13g2
 magscale 1 1
-timestamp 1747314864
+timestamp 1747899951
 << checkpaint >>
 rect 0 0 1 1
-use JNWATR_PCH_4C5F0  diff1_MP3<3> ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 292 0 1 2004
-box 0 0 576 400
-use JNWATR_PCH_4C5F0  diff1_MP3<2> ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 868 0 1 2004
-box 0 0 576 400
-use JNWATR_PCH_4C5F0  diff1_MP3<1> ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 292 0 1 1604
-box 0 0 576 400
-use JNWATR_PCH_4CTAPBOT  diff1_MP3<1>_TAPBOT ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 292 0 1 1364
-box 0 0 576 240
-use JNWATR_PCH_4C5F0  diff1_MP3<0> ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 868 0 1 1604
-box 0 0 576 400
-use JNWATR_PCH_4CTAPBOT  diff1_MP3<0>_TAPBOT ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 868 0 1 1364
-box 0 0 576 240
-use JNWATR_PCH_4C5F0  diff1_MP4<3> ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 292 0 1 2804
-box 0 0 576 400
-use JNWATR_PCH_4C5F0  diff1_MP4<2> ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 868 0 1 2804
-box 0 0 576 400
-use JNWATR_PCH_4C5F0  diff1_MP4<1> ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 868 0 1 2404
-box 0 0 576 400
-use JNWATR_PCH_4C5F0  diff1_MP4<0> ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 292 0 1 2404
-box 0 0 576 400
-use JNWATR_PCH_4C5F0  mirror1_MP2 ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 868 0 1 3204
-box 0 0 576 400
-use JNWATR_PCH_4CTAPTOP  mirror1_MP2_TAPTOP ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 868 0 1 3604
-box 0 0 576 240
-use JNWATR_PCH_4C5F0  mirror1_MP1 ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 292 0 1 3204
-box 0 0 576 400
-use JNWATR_PCH_4CTAPTOP  mirror1_MP1_TAPTOP ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 292 0 1 3604
-box 0 0 576 240
-use JNWATR_NCH_4C5F0  mirror2_MN1 ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 292 0 1 504
-box 0 0 576 400
-use JNWATR_NCH_4CTAPTOP  mirror2_MN1_TAPTOP ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 292 0 1 904
-box 0 0 576 240
-use JNWATR_NCH_4CTAPBOT  mirror2_MN1_TAPBOT ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 292 0 1 264
-box 0 0 576 240
-use JNWATR_NCH_4C5F0  mirror2_MN2 ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 868 0 1 504
-box 0 0 576 400
-use JNWATR_NCH_4CTAPTOP  mirror2_MN2_TAPTOP ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 868 0 1 904
-box 0 0 576 240
-use JNWATR_NCH_4CTAPBOT  mirror2_MN2_TAPBOT ../JNW_ATR_SKY130A
-timestamp 1747314864
-transform 1 0 868 0 1 264
-box 0 0 576 240
-use JNWTR_RPPO16  bias1_RH1 ../JNW_TR_SKY130A
-timestamp 1747314864
-transform 1 0 1644 0 1 200
-box 0 0 2236 1720
-use JNWTR_RPPO16  bias1_RH2 ../JNW_TR_SKY130A
-timestamp 1747314864
-transform 1 0 1644 0 1 3740
-box 0 0 2236 1720
-use JNWTR_RPPO16  bias1_RH3 ../JNW_TR_SKY130A
-timestamp 1747314864
-transform 1 0 1644 0 1 1970
-box 0 0 2236 1720
-<< m2 >>
-rect 820 2187 963 2217
-<< m3 >>
-rect 820 1787 850 2217
-<< m2 >>
-rect 820 1787 978 1817
-<< m2 >>
-rect 372 1787 978 1817
-<< m2 >>
-rect 244 1787 402 1817
-<< m3 >>
-rect 244 1787 274 2217
-<< m2 >>
-rect 244 2187 387 2217
-<< m2 >>
-rect 813 2180 857 2224
-<< m3 >>
-rect 813 2180 857 2224
-<< via2 >>
-rect 820 2187 850 2217
-<< m2 >>
-rect 813 1780 857 1824
-<< m3 >>
-rect 813 1780 857 1824
-<< via2 >>
-rect 820 1787 850 1817
-<< m2 >>
-rect 237 1780 281 1824
-<< m3 >>
-rect 237 1780 281 1824
-<< via2 >>
-rect 244 1787 274 1817
-<< m2 >>
-rect 237 2180 281 2224
-<< m3 >>
-rect 237 2180 281 2224
-<< via2 >>
-rect 244 2187 274 2217
-<< m2 >>
-rect 820 2987 963 3017
-<< m3 >>
-rect 820 2587 850 3017
-<< m2 >>
-rect 820 2587 978 2617
-<< m2 >>
-rect 372 2587 978 2617
-<< m2 >>
-rect 244 2587 402 2617
-<< m3 >>
-rect 244 2587 274 3017
-<< m2 >>
-rect 244 2987 387 3017
-<< m2 >>
-rect 813 2980 857 3024
-<< m3 >>
-rect 813 2980 857 3024
-<< via2 >>
-rect 820 2987 850 3017
-<< m2 >>
-rect 813 2580 857 2624
-<< m3 >>
-rect 813 2580 857 2624
-<< via2 >>
-rect 820 2587 850 2617
-<< m2 >>
-rect 237 2580 281 2624
-<< m3 >>
-rect 237 2580 281 2624
-<< via2 >>
-rect 244 2587 274 2617
-<< m2 >>
-rect 237 2980 281 3024
-<< m3 >>
-rect 237 2980 281 3024
-<< via2 >>
-rect 244 2987 274 3017
-<< m2 >>
-rect 1251 523 1410 553
-<< m3 >>
-rect 1380 523 1410 2457
-<< m2 >>
-rect 1236 2427 1410 2457
-<< m3 >>
-rect 1236 2427 1266 2857
-<< m2 >>
-rect 660 2827 1266 2857
-<< m3 >>
-rect 660 2442 690 2857
-<< m2 >>
-rect 1373 516 1417 560
-<< m3 >>
-rect 1373 516 1417 560
-<< via2 >>
-rect 1380 523 1410 553
-<< m2 >>
-rect 1373 2420 1417 2464
-<< m3 >>
-rect 1373 2420 1417 2464
-<< via2 >>
-rect 1380 2427 1410 2457
-<< m2 >>
-rect 1229 2420 1273 2464
-<< m3 >>
-rect 1229 2420 1273 2464
-<< via2 >>
-rect 1236 2427 1266 2457
-<< m2 >>
-rect 1229 2820 1273 2864
-<< m3 >>
-rect 1229 2820 1273 2864
-<< via2 >>
-rect 1236 2827 1266 2857
-<< m2 >>
-rect 653 2820 697 2864
-<< m3 >>
-rect 653 2820 697 2864
-<< via2 >>
-rect 660 2827 690 2857
-<< m2 >>
-rect 387 684 978 714
-<< m2 >>
-rect 948 684 1266 714
-<< m3 >>
-rect 1236 684 1266 1658
-<< m3 >>
-rect 1236 1628 1266 2058
-<< m2 >>
-rect 660 2028 1266 2058
-<< m3 >>
-rect 660 1643 690 2058
-<< m2 >>
-rect 1229 677 1273 721
-<< m3 >>
-rect 1229 677 1273 721
-<< via2 >>
-rect 1236 684 1266 714
-<< m2 >>
-rect 1229 2021 1273 2065
-<< m3 >>
-rect 1229 2021 1273 2065
-<< via2 >>
-rect 1236 2028 1266 2058
-<< m2 >>
-rect 653 2021 697 2065
-<< m3 >>
-rect 653 2021 697 2065
-<< via2 >>
-rect 660 2028 690 2058
-<< m2 >>
-rect 1252 3221 1411 3251
-<< m3 >>
-rect 1381 2709 1411 3251
-<< m2 >>
-rect 1045 2709 1411 2739
-<< m2 >>
-rect 1045 2709 1411 2739
-<< m3 >>
-rect 1381 2709 1411 3139
-<< m2 >>
-rect 1045 3109 1411 3139
-<< m2 >>
-rect 469 3109 1075 3139
-<< m2 >>
-rect 149 3109 499 3139
-<< m3 >>
-rect 149 2709 179 3139
-<< m2 >>
-rect 149 2709 499 2739
-<< m2 >>
-rect 149 2709 499 2739
-<< m3 >>
-rect 149 2309 179 2739
-<< m2 >>
-rect 149 2309 499 2339
-<< m2 >>
-rect 149 2309 499 2339
-<< m3 >>
-rect 149 1909 179 2339
-<< m2 >>
-rect 149 1909 499 1939
-<< m2 >>
-rect 469 1909 1075 1939
-<< m2 >>
-rect 1045 1909 1507 1939
-<< m3 >>
-rect 1477 1909 1507 2339
-<< m2 >>
-rect 1060 2309 1507 2339
-<< m2 >>
-rect 1374 3214 1418 3258
-<< m3 >>
-rect 1374 3214 1418 3258
-<< via2 >>
-rect 1381 3221 1411 3251
-<< m2 >>
-rect 1374 2702 1418 2746
-<< m3 >>
-rect 1374 2702 1418 2746
-<< via2 >>
-rect 1381 2709 1411 2739
-<< m2 >>
-rect 1374 2702 1418 2746
-<< m3 >>
-rect 1374 2702 1418 2746
-<< via2 >>
-rect 1381 2709 1411 2739
-<< m2 >>
-rect 1374 3102 1418 3146
-<< m3 >>
-rect 1374 3102 1418 3146
-<< via2 >>
-rect 1381 3109 1411 3139
-<< m2 >>
-rect 142 3102 186 3146
-<< m3 >>
-rect 142 3102 186 3146
-<< via2 >>
-rect 149 3109 179 3139
-<< m2 >>
-rect 142 2702 186 2746
-<< m3 >>
-rect 142 2702 186 2746
-<< via2 >>
-rect 149 2709 179 2739
-<< m2 >>
-rect 142 2702 186 2746
-<< m3 >>
-rect 142 2702 186 2746
-<< via2 >>
-rect 149 2709 179 2739
-<< m2 >>
-rect 142 2302 186 2346
-<< m3 >>
-rect 142 2302 186 2346
-<< via2 >>
-rect 149 2309 179 2339
-<< m2 >>
-rect 142 2302 186 2346
-<< m3 >>
-rect 142 2302 186 2346
-<< via2 >>
-rect 149 2309 179 2339
-<< m2 >>
-rect 142 1902 186 1946
-<< m3 >>
-rect 142 1902 186 1946
-<< via2 >>
-rect 149 1909 179 1939
-<< m2 >>
-rect 1470 1902 1514 1946
-<< m3 >>
-rect 1470 1902 1514 1946
-<< via2 >>
-rect 1477 1909 1507 1939
-<< m2 >>
-rect 1470 2302 1514 2346
-<< m3 >>
-rect 1470 2302 1514 2346
-<< via2 >>
-rect 1477 2309 1507 2339
-<< m3 >>
-rect 3604 1721 3634 3032
-<< m2 >>
-rect 1620 3002 3634 3032
-<< m3 >>
-rect 1620 3002 1650 3416
-<< m2 >>
-rect 948 3386 1650 3416
-<< m2 >>
-rect 387 3386 978 3416
-<< m2 >>
-rect 3597 2995 3641 3039
-<< m3 >>
-rect 3597 2995 3641 3039
-<< via2 >>
-rect 3604 3002 3634 3032
-<< m2 >>
-rect 1613 2995 1657 3039
-<< m3 >>
-rect 1613 2995 1657 3039
-<< via2 >>
-rect 1620 3002 1650 3032
-<< m2 >>
-rect 1613 3379 1657 3423
-<< m3 >>
-rect 1613 3379 1657 3423
-<< via2 >>
-rect 1620 3386 1650 3416
-<< m2 >>
-rect 1893 1703 3460 1733
-<< m3 >>
-rect 3430 1703 3460 5269
-<< m2 >>
-rect 3430 5239 3621 5269
-<< m2 >>
-rect 3423 1696 3467 1740
-<< m3 >>
-rect 3423 1696 3467 1740
-<< via2 >>
-rect 3430 1703 3460 1733
-<< m2 >>
-rect 3423 5232 3467 5276
-<< m3 >>
-rect 3423 5232 3467 5276
-<< via2 >>
-rect 3430 5239 3460 5269
-<< m3 >>
-rect 1878 3689 1908 5256
-<< m2 >>
-rect 1878 3689 3636 3719
-<< m3 >>
-rect 3606 3480 3636 3719
-<< m2 >>
-rect 1871 3682 1915 3726
-<< m3 >>
-rect 1871 3682 1915 3726
-<< via2 >>
-rect 1878 3689 1908 3719
-<< m2 >>
-rect 3599 3682 3643 3726
-<< m3 >>
-rect 3599 3682 3643 3726
-<< via2 >>
-rect 3606 3689 3636 3719
-<< locali >>
-rect 100 5510 3980 5560
-<< locali >>
-rect 100 100 3980 150
-<< m1 >>
-rect 100 150 150 5510
-<< m1 >>
-rect 3930 150 3980 5510
-<< locali >>
-rect 93 5503 157 5567
-<< m1 >>
-rect 93 5503 157 5567
-<< viali >>
-rect 100 5510 150 5560
-<< locali >>
+use LELOATR_PCH_4C5F0  diff1_MP3<3> ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 326 0 1 964
+box 0 0 756 400
+use LELOATR_PCH_4C5F0  diff1_MP3<2> ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 1082 0 1 964
+box 0 0 756 400
+use LELOATR_PCH_4C5F0  diff1_MP3<1> ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 1082 0 1 1764
+box 0 0 756 400
+use LELOATR_PCH_4CTAPTOP  diff1_MP3<1>_TAPTOP ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 1082 0 1 2164
+box 0 0 756 240
+use LELOATR_PCH_4C5F0  diff1_MP3<0> ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 326 0 1 1764
+box 0 0 756 400
+use LELOATR_PCH_4CTAPTOP  diff1_MP3<0>_TAPTOP ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 326 0 1 2164
+box 0 0 756 240
+use LELOATR_PCH_4C5F0  diff1_MP4<3> ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 1082 0 1 2264
+box 0 0 756 400
+use LELOATR_PCH_4CTAPTOP  diff1_MP4<3>_TAPTOP ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 1082 0 1 2664
+box 0 0 756 240
+use LELOATR_PCH_4CTAPBOT  diff1_MP4<3>_TAPBOT ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 1082 0 1 2024
+box 0 0 756 240
+use LELOATR_PCH_4C5F0  diff1_MP4<2> ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 326 0 1 2264
+box 0 0 756 400
+use LELOATR_PCH_4CTAPTOP  diff1_MP4<2>_TAPTOP ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 326 0 1 2664
+box 0 0 756 240
+use LELOATR_PCH_4CTAPBOT  diff1_MP4<2>_TAPBOT ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 326 0 1 2024
+box 0 0 756 240
+use LELOATR_PCH_4C5F0  diff1_MP4<1> ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 1082 0 1 564
+box 0 0 756 400
+use LELOATR_PCH_4CTAPBOT  diff1_MP4<1>_TAPBOT ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 1082 0 1 324
+box 0 0 756 240
+use LELOATR_PCH_4C5F0  diff1_MP4<0> ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 326 0 1 564
+box 0 0 756 400
+use LELOATR_PCH_4CTAPBOT  diff1_MP4<0>_TAPBOT ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 326 0 1 324
+box 0 0 756 240
+use LELOATR_PCH_4C5F0  mirror1_MP2 ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 1082 0 1 1364
+box 0 0 756 400
+use LELOATR_PCH_4C5F0  mirror1_MP1 ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 326 0 1 1364
+box 0 0 756 400
+use LELOATR_NCH_4C5F0  mirror2_MN1 ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 1082 0 1 3280
+box 0 0 756 400
+use LELOATR_NCH_4CTAPTOP  mirror2_MN1_TAPTOP ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 1082 0 1 3680
+box 0 0 756 240
+use LELOATR_NCH_4CTAPBOT  mirror2_MN1_TAPBOT ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 1082 0 1 3040
+box 0 0 756 240
+use LELOATR_NCH_4C5F0  mirror2_MN2 ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 326 0 1 3280
+box 0 0 756 400
+use LELOATR_NCH_4CTAPTOP  mirror2_MN2_TAPTOP ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 326 0 1 3680
+box 0 0 756 240
+use LELOATR_NCH_4CTAPBOT  mirror2_MN2_TAPBOT ../LELO_ATR_IHP13G2
+timestamp 1747899951
+transform 1 0 326 0 1 3040
+box 0 0 756 240
+use LELOTR_RPPO16  bias1_RH1 ../LELO_TR_IHP13G2
+timestamp 1747899951
+transform 1 0 2038 0 1 200
+box 0 0 3448 880
+use LELOTR_RPPO16  bias1_RH2 ../LELO_TR_IHP13G2
+timestamp 1747899951
+transform 1 0 2038 0 1 2060
+box 0 0 3448 880
+use LELOTR_RPPO16  bias1_RH3 ../LELO_TR_IHP13G2
+timestamp 1747899951
+transform 1 0 2038 0 1 1130
+box 0 0 3448 880
+<< metal3 >>
+rect 454 1947 1221 1977
+<< metal3 >>
+rect 1063 1947 1221 1977
+<< metal4 >>
+rect 1063 1147 1093 1977
+<< metal3 >>
+rect 1063 1147 1221 1177
+<< metal3 >>
+rect 454 1147 1221 1177
+<< metal3 >>
+rect 1056 1940 1100 1984
+<< metal4 >>
+rect 1056 1940 1100 1984
+<< via3 >>
+rect 1063 1947 1093 1977
+<< metal3 >>
+rect 1056 1140 1100 1184
+<< metal4 >>
+rect 1056 1140 1100 1184
+<< via3 >>
+rect 1063 1147 1093 1177
+<< metal3 >>
+rect 439 749 1206 779
+<< metal3 >>
+rect 311 749 469 779
+<< metal4 >>
+rect 311 749 341 2475
+<< metal3 >>
+rect 311 2445 469 2475
+<< metal3 >>
+rect 439 2445 1206 2475
+<< metal3 >>
+rect 304 742 348 786
+<< metal4 >>
+rect 304 742 348 786
+<< via3 >>
+rect 311 749 341 779
+<< metal3 >>
+rect 304 2438 348 2482
+<< metal4 >>
+rect 304 2438 348 2482
+<< via3 >>
+rect 311 2445 341 2475
+<< metal4 >>
+rect 808 2285 838 3324
+<< metal3 >>
+rect 808 2285 1606 2315
+<< metal3 >>
+rect 1576 2285 1750 2315
+<< metal4 >>
+rect 1720 589 1750 2315
+<< metal3 >>
+rect 1576 589 1750 619
+<< metal3 >>
+rect 823 589 1606 619
+<< metal3 >>
+rect 801 2278 845 2322
+<< metal4 >>
+rect 801 2278 845 2322
+<< via3 >>
+rect 808 2285 838 2315
+<< metal3 >>
+rect 1713 2278 1757 2322
+<< metal4 >>
+rect 1713 2278 1757 2322
+<< via3 >>
+rect 1720 2285 1750 2315
+<< metal3 >>
+rect 1713 582 1757 626
+<< metal4 >>
+rect 1713 582 1757 626
+<< via3 >>
+rect 1720 589 1750 619
+<< metal3 >>
+rect 440 3467 1207 3497
+<< metal3 >>
+rect 440 3467 982 3497
+<< metal4 >>
+rect 952 1787 982 3497
+<< metal3 >>
+rect 808 1787 982 1817
+<< metal3 >>
+rect 808 1787 1606 1817
+<< metal3 >>
+rect 1576 1787 1846 1817
+<< metal4 >>
+rect 1816 987 1846 1817
+<< metal3 >>
+rect 1576 987 1846 1017
+<< metal3 >>
+rect 823 987 1606 1017
+<< metal3 >>
+rect 945 3460 989 3504
+<< metal4 >>
+rect 945 3460 989 3504
+<< via3 >>
+rect 952 3467 982 3497
+<< metal3 >>
+rect 945 1780 989 1824
+<< metal4 >>
+rect 945 1780 989 1824
+<< via3 >>
+rect 952 1787 982 1817
+<< metal3 >>
+rect 1809 1780 1853 1824
+<< metal4 >>
+rect 1809 1780 1853 1824
+<< via3 >>
+rect 1816 1787 1846 1817
+<< metal3 >>
+rect 1809 980 1853 1024
+<< metal4 >>
+rect 1809 980 1853 1024
+<< via3 >>
+rect 1816 987 1846 1017
+<< metal3 >>
+rect 1317 1382 1588 1412
+<< metal4 >>
+rect 1317 870 1347 1412
+<< metal4 >>
+rect 1317 870 1347 1300
+<< metal3 >>
+rect 1317 1270 1939 1300
+<< metal4 >>
+rect 1909 1270 1939 2100
+<< metal3 >>
+rect 1317 2070 1939 2100
+<< metal4 >>
+rect 1317 2070 1347 2596
+<< metal3 >>
+rect 565 2566 1347 2596
+<< metal4 >>
+rect 565 2070 595 2596
+<< metal3 >>
+rect 213 2070 595 2100
+<< metal4 >>
+rect 213 1270 243 2100
+<< metal3 >>
+rect 213 1270 595 1300
+<< metal4 >>
+rect 565 885 595 1300
+<< metal3 >>
+rect 1310 1375 1354 1419
+<< metal4 >>
+rect 1310 1375 1354 1419
+<< via3 >>
+rect 1317 1382 1347 1412
+<< metal3 >>
+rect 1310 1263 1354 1307
+<< metal4 >>
+rect 1310 1263 1354 1307
+<< via3 >>
+rect 1317 1270 1347 1300
+<< metal3 >>
+rect 1902 1263 1946 1307
+<< metal4 >>
+rect 1902 1263 1946 1307
+<< via3 >>
+rect 1909 1270 1939 1300
+<< metal3 >>
+rect 1902 2063 1946 2107
+<< metal4 >>
+rect 1902 2063 1946 2107
+<< via3 >>
+rect 1909 2070 1939 2100
+<< metal3 >>
+rect 1310 2063 1354 2107
+<< metal4 >>
+rect 1310 2063 1354 2107
+<< via3 >>
+rect 1317 2070 1347 2100
+<< metal3 >>
+rect 1310 2559 1354 2603
+<< metal4 >>
+rect 1310 2559 1354 2603
+<< via3 >>
+rect 1317 2566 1347 2596
+<< metal3 >>
+rect 558 2559 602 2603
+<< metal4 >>
+rect 558 2559 602 2603
+<< via3 >>
+rect 565 2566 595 2596
+<< metal3 >>
+rect 558 2063 602 2107
+<< metal4 >>
+rect 558 2063 602 2107
+<< via3 >>
+rect 565 2070 595 2100
+<< metal3 >>
+rect 206 2063 250 2107
+<< metal4 >>
+rect 206 2063 250 2107
+<< via3 >>
+rect 213 2070 243 2100
+<< metal3 >>
+rect 206 1263 250 1307
+<< metal4 >>
+rect 206 1263 250 1307
+<< via3 >>
+rect 213 1270 243 1300
+<< metal3 >>
+rect 558 1263 602 1307
+<< metal4 >>
+rect 558 1263 602 1307
+<< via3 >>
+rect 565 1270 595 1300
+<< metal4 >>
+rect 5254 937 5284 1576
+<< metal3 >>
+rect 1190 1546 5284 1576
+<< metal3 >>
+rect 453 1546 1220 1576
+<< metal3 >>
+rect 5247 1539 5291 1583
+<< metal4 >>
+rect 5247 1539 5291 1583
+<< via3 >>
+rect 5254 1546 5284 1576
+<< metal3 >>
+rect 2243 921 4962 951
+<< metal4 >>
+rect 4932 921 4962 2807
+<< metal3 >>
+rect 4932 2777 5267 2807
+<< metal3 >>
+rect 4925 914 4969 958
+<< metal4 >>
+rect 4925 914 4969 958
+<< via3 >>
+rect 4932 921 4962 951
+<< metal3 >>
+rect 4925 2770 4969 2814
+<< metal4 >>
+rect 4925 2770 4969 2814
+<< via3 >>
+rect 4932 2777 4962 2807
+<< metal4 >>
+rect 2228 2011 2258 2794
+<< metal3 >>
+rect 2228 2011 5282 2041
+<< metal4 >>
+rect 5252 1866 5282 2041
+<< metal3 >>
+rect 2221 2004 2265 2048
+<< metal4 >>
+rect 2221 2004 2265 2048
+<< via3 >>
+rect 2228 2011 2258 2041
+<< metal3 >>
+rect 5245 2004 5289 2048
+<< metal4 >>
+rect 5245 2004 5289 2048
+<< via3 >>
+rect 5252 2011 5282 2041
+<< metal1 >>
+rect 100 3730 5586 3780
+<< metal1 >>
+rect 100 100 5586 150
+<< metal2 >>
+rect 100 150 150 3730
+<< metal2 >>
+rect 5536 150 5586 3730
+<< metal1 >>
+rect 93 3723 157 3787
+<< metal2 >>
+rect 93 3723 157 3787
+<< via1 >>
+rect 100 3730 150 3780
+<< metal1 >>
 rect 93 93 157 157
-<< m1 >>
+<< metal2 >>
 rect 93 93 157 157
-<< viali >>
+<< via1 >>
 rect 100 100 150 150
-<< locali >>
-rect 3923 5503 3987 5567
-<< m1 >>
-rect 3923 5503 3987 5567
-<< viali >>
-rect 3930 5510 3980 5560
-<< locali >>
-rect 3923 93 3987 157
-<< m1 >>
-rect 3923 93 3987 157
-<< viali >>
-rect 3930 100 3980 150
-<< locali >>
-rect 0 5610 4080 5660
-<< locali >>
-rect 0 0 4080 50
-<< m1 >>
-rect 0 50 50 5610
-<< m1 >>
-rect 4030 50 4080 5610
-<< locali >>
-rect -7 5603 57 5667
-<< m1 >>
-rect -7 5603 57 5667
-<< viali >>
-rect 0 5610 50 5660
-<< locali >>
+<< metal1 >>
+rect 5529 3723 5593 3787
+<< metal2 >>
+rect 5529 3723 5593 3787
+<< via1 >>
+rect 5536 3730 5586 3780
+<< metal1 >>
+rect 5529 93 5593 157
+<< metal2 >>
+rect 5529 93 5593 157
+<< via1 >>
+rect 5536 100 5586 150
+<< metal1 >>
+rect 0 3830 5686 3880
+<< metal1 >>
+rect 0 0 5686 50
+<< metal2 >>
+rect 0 50 50 3830
+<< metal2 >>
+rect 5636 50 5686 3830
+<< metal1 >>
+rect -7 3823 57 3887
+<< metal2 >>
+rect -7 3823 57 3887
+<< via1 >>
+rect 0 3830 50 3880
+<< metal1 >>
 rect -7 -7 57 57
-<< m1 >>
+<< metal2 >>
 rect -7 -7 57 57
-<< viali >>
+<< via1 >>
 rect 0 0 50 50
-<< locali >>
-rect 4023 5603 4087 5667
-<< m1 >>
-rect 4023 5603 4087 5667
-<< viali >>
-rect 4030 5610 4080 5660
-<< locali >>
-rect 4023 -7 4087 57
-<< m1 >>
-rect 4023 -7 4087 57
-<< viali >>
-rect 4030 0 4080 50
-<< locali >>
-rect 1652 3430 1970 3550
-<< locali >>
-rect 1644 1864 3980 1920
-<< locali >>
-rect 3923 1857 3987 1927
-<< m1 >>
-rect 3923 1857 3987 1927
-<< viali >>
-rect 3930 1864 3980 1920
-<< locali >>
-rect 1644 200 3980 256
-<< locali >>
-rect 3923 193 3987 263
-<< m1 >>
-rect 3923 193 3987 263
-<< viali >>
-rect 3930 200 3980 256
-<< locali >>
-rect 1644 5404 3980 5460
-<< locali >>
-rect 3923 5397 3987 5467
-<< m1 >>
-rect 3923 5397 3987 5467
-<< viali >>
-rect 3930 5404 3980 5460
-<< locali >>
-rect 1644 3740 3980 3796
-<< locali >>
-rect 3923 3733 3987 3803
-<< m1 >>
-rect 3923 3733 3987 3803
-<< viali >>
-rect 3930 3740 3980 3796
-<< locali >>
-rect 1644 3634 3980 3690
-<< locali >>
-rect 3923 3627 3987 3697
-<< m1 >>
-rect 3923 3627 3987 3697
-<< viali >>
-rect 3930 3634 3980 3690
-<< locali >>
-rect 1644 1970 3980 2026
-<< locali >>
-rect 3923 1963 3987 2033
-<< m1 >>
-rect 3923 1963 3987 2033
-<< viali >>
-rect 3930 1970 3980 2026
-<< locali >>
-rect 820 3504 1108 3544
-<< locali >>
-rect 244 3504 532 3544
-<< locali >>
-rect 628 3384 788 3424
-<< locali >>
-rect 244 804 532 844
-<< locali >>
-rect 628 684 788 724
-<< locali >>
-rect 820 804 1108 844
-<< locali >>
-rect 0 1436 1536 1532
-<< locali >>
-rect -7 1429 57 1539
-<< m1 >>
-rect -7 1429 57 1539
-<< viali >>
-rect 0 1436 50 1532
-<< locali >>
-rect 0 3676 1536 3772
-<< locali >>
-rect -7 3669 57 3779
-<< m1 >>
-rect -7 3669 57 3779
-<< viali >>
-rect 0 3676 50 3772
-<< locali >>
-rect 100 976 1536 1072
-<< locali >>
-rect 93 969 157 1079
-<< m1 >>
-rect 93 969 157 1079
-<< viali >>
-rect 100 976 150 1072
-<< locali >>
-rect 100 336 1536 432
-<< locali >>
-rect 93 329 157 439
-<< m1 >>
-rect 93 329 157 439
-<< viali >>
-rect 100 336 150 432
-<< m1 >>
-rect 365 2177 411 2231
-<< m2 >>
-rect 365 2177 411 2231
+<< metal1 >>
+rect 5629 3823 5693 3887
+<< metal2 >>
+rect 5629 3823 5693 3887
 << via1 >>
-rect 372 2184 404 2224
-<< m1 >>
-rect 941 2177 987 2231
-<< m2 >>
-rect 941 2177 987 2231
+rect 5636 3830 5686 3880
+<< metal1 >>
+rect 5629 -7 5693 57
+<< metal2 >>
+rect 5629 -7 5693 57
 << via1 >>
-rect 948 2184 980 2224
-<< m1 >>
-rect 365 1777 411 1831
-<< m2 >>
-rect 365 1777 411 1831
+rect 5636 0 5686 50
+<< metal1 >>
+rect 2046 1850 2343 1890
+<< metal1 >>
+rect 2038 1024 5586 1080
+<< metal1 >>
+rect 5529 1017 5593 1087
+<< metal2 >>
+rect 5529 1017 5593 1087
 << via1 >>
-rect 372 1784 404 1824
-<< m1 >>
-rect 365 1777 411 1831
-<< m2 >>
-rect 365 1777 411 1831
+rect 5536 1024 5586 1080
+<< metal1 >>
+rect 2038 200 5586 256
+<< metal1 >>
+rect 5529 193 5593 263
+<< metal2 >>
+rect 5529 193 5593 263
 << via1 >>
-rect 372 1784 404 1824
-<< m1 >>
-rect 941 1777 987 1831
-<< m2 >>
-rect 941 1777 987 1831
+rect 5536 200 5586 256
+<< metal1 >>
+rect 2038 2884 5586 2940
+<< metal1 >>
+rect 5529 2877 5593 2947
+<< metal2 >>
+rect 5529 2877 5593 2947
 << via1 >>
-rect 948 1784 980 1824
-<< m1 >>
-rect 941 1777 987 1831
-<< m2 >>
-rect 941 1777 987 1831
+rect 5536 2884 5586 2940
+<< metal1 >>
+rect 2038 2060 5586 2116
+<< metal1 >>
+rect 5529 2053 5593 2123
+<< metal2 >>
+rect 5529 2053 5593 2123
 << via1 >>
-rect 948 1784 980 1824
-<< m1 >>
-rect 365 2977 411 3031
-<< m2 >>
-rect 365 2977 411 3031
+rect 5536 2060 5586 2116
+<< metal1 >>
+rect 2038 1954 5586 2010
+<< metal1 >>
+rect 5529 1947 5593 2017
+<< metal2 >>
+rect 5529 1947 5593 2017
 << via1 >>
-rect 372 2984 404 3024
-<< m1 >>
-rect 941 2977 987 3031
-<< m2 >>
-rect 941 2977 987 3031
+rect 5536 1954 5586 2010
+<< metal1 >>
+rect 2038 1130 5586 1186
+<< metal1 >>
+rect 5529 1123 5593 1193
+<< metal2 >>
+rect 5529 1123 5593 1193
 << via1 >>
-rect 948 2984 980 3024
-<< m1 >>
-rect 941 2577 987 2631
-<< m2 >>
-rect 941 2577 987 2631
+rect 5536 1130 5586 1186
+<< metal1 >>
+rect 1019 1664 1397 1704
+<< metal1 >>
+rect 263 1664 641 1704
+<< metal1 >>
+rect 767 1544 977 1584
+<< metal1 >>
+rect 1019 3580 1397 3620
+<< metal1 >>
+rect 1523 3460 1733 3500
+<< metal1 >>
+rect 263 3580 641 3620
+<< metal1 >>
+rect 0 2221 2132 2347
+<< metal1 >>
+rect -7 2214 57 2354
+<< metal2 >>
+rect -7 2214 57 2354
 << via1 >>
-rect 948 2584 980 2624
-<< m1 >>
-rect 941 2577 987 2631
-<< m2 >>
-rect 941 2577 987 2631
+rect 0 2221 50 2347
+<< metal1 >>
+rect 0 2721 2132 2847
+<< metal1 >>
+rect -7 2714 57 2854
+<< metal2 >>
+rect -7 2714 57 2854
 << via1 >>
-rect 948 2584 980 2624
-<< m1 >>
-rect 365 2577 411 2631
-<< m2 >>
-rect 365 2577 411 2631
+rect 0 2721 50 2847
+<< metal1 >>
+rect 0 2081 2132 2207
+<< metal1 >>
+rect -7 2074 57 2214
+<< metal2 >>
+rect -7 2074 57 2214
 << via1 >>
-rect 372 2584 404 2624
-<< m1 >>
-rect 365 2577 411 2631
-<< m2 >>
-rect 365 2577 411 2631
+rect 0 2081 50 2207
+<< metal1 >>
+rect 0 381 2132 507
+<< metal1 >>
+rect -7 374 57 514
+<< metal2 >>
+rect -7 374 57 514
 << via1 >>
-rect 372 2584 404 2624
-<< m1 >>
-rect 621 2817 731 2871
-<< m2 >>
-rect 621 2817 731 2871
+rect 0 381 50 507
+<< metal1 >>
+rect 100 3737 1964 3863
+<< metal1 >>
+rect 93 3730 157 3870
+<< metal2 >>
+rect 93 3730 157 3870
 << via1 >>
-rect 628 2824 724 2864
-<< m1 >>
-rect 621 2817 731 2871
-<< m2 >>
-rect 621 2817 731 2871
-<< m3 >>
-rect 621 2817 731 2871
+rect 100 3737 150 3863
+<< metal1 >>
+rect 100 3097 1964 3223
+<< metal1 >>
+rect 93 3090 157 3230
+<< metal2 >>
+rect 93 3090 157 3230
+<< via1 >>
+rect 100 3097 150 3223
+<< metal2 >>
+rect 424 1137 480 1191
+<< metal3 >>
+rect 424 1137 480 1191
 << via2 >>
-rect 628 2824 724 2864
-<< via1 >>
-rect 628 2824 724 2864
-<< m1 >>
-rect 1197 2817 1307 2871
-<< m2 >>
-rect 1197 2817 1307 2871
-<< m3 >>
-rect 1197 2817 1307 2871
+rect 431 1144 473 1184
+<< metal2 >>
+rect 1180 1137 1236 1191
+<< metal3 >>
+rect 1180 1137 1236 1191
 << via2 >>
-rect 1204 2824 1300 2864
-<< via1 >>
-rect 1204 2824 1300 2864
-<< m1 >>
-rect 1197 2817 1307 2871
-<< m2 >>
-rect 1197 2817 1307 2871
-<< via1 >>
-rect 1204 2824 1300 2864
-<< m1 >>
-rect 1197 2417 1307 2471
-<< m2 >>
-rect 1197 2417 1307 2471
-<< via1 >>
-rect 1204 2424 1300 2464
-<< m1 >>
-rect 1197 2417 1307 2471
-<< m2 >>
-rect 1197 2417 1307 2471
-<< m3 >>
-rect 1197 2417 1307 2471
+rect 1187 1144 1229 1184
+<< metal2 >>
+rect 1180 1137 1236 1191
+<< metal3 >>
+rect 1180 1137 1236 1191
 << via2 >>
-rect 1204 2424 1300 2464
-<< via1 >>
-rect 1204 2424 1300 2464
-<< m1 >>
-rect 621 2417 731 2471
-<< m2 >>
-rect 621 2417 731 2471
-<< m3 >>
-rect 621 2417 731 2471
+rect 1187 1144 1229 1184
+<< metal2 >>
+rect 1180 1937 1236 1991
+<< metal3 >>
+rect 1180 1937 1236 1991
 << via2 >>
-rect 628 2424 724 2464
-<< via1 >>
-rect 628 2424 724 2464
-<< m1 >>
-rect 1197 517 1307 571
-<< m2 >>
-rect 1197 517 1307 571
-<< via1 >>
-rect 1204 524 1300 564
-<< m1 >>
-rect 621 2017 731 2071
-<< m2 >>
-rect 621 2017 731 2071
-<< via1 >>
-rect 628 2024 724 2064
-<< m1 >>
-rect 621 2017 731 2071
-<< m2 >>
-rect 621 2017 731 2071
-<< m3 >>
-rect 621 2017 731 2071
+rect 1187 1944 1229 1984
+<< metal2 >>
+rect 1180 1937 1236 1991
+<< metal3 >>
+rect 1180 1937 1236 1991
 << via2 >>
-rect 628 2024 724 2064
-<< via1 >>
-rect 628 2024 724 2064
-<< m1 >>
-rect 1197 2017 1307 2071
-<< m2 >>
-rect 1197 2017 1307 2071
-<< m3 >>
-rect 1197 2017 1307 2071
+rect 1187 1944 1229 1984
+<< metal2 >>
+rect 424 1937 480 1991
+<< metal3 >>
+rect 424 1937 480 1991
 << via2 >>
-rect 1204 2024 1300 2064
-<< via1 >>
-rect 1204 2024 1300 2064
-<< m1 >>
-rect 1197 2017 1307 2071
-<< m2 >>
-rect 1197 2017 1307 2071
-<< via1 >>
-rect 1204 2024 1300 2064
-<< m1 >>
-rect 621 1617 731 1671
-<< m2 >>
-rect 621 1617 731 1671
-<< m3 >>
-rect 621 1617 731 1671
+rect 431 1944 473 1984
+<< metal2 >>
+rect 1180 2437 1236 2491
+<< metal3 >>
+rect 1180 2437 1236 2491
 << via2 >>
-rect 628 1624 724 1664
-<< via1 >>
-rect 628 1624 724 1664
-<< m1 >>
-rect 1197 1617 1307 1671
-<< m2 >>
-rect 1197 1617 1307 1671
-<< m3 >>
-rect 1197 1617 1307 1671
+rect 1187 2444 1229 2484
+<< metal2 >>
+rect 424 2437 480 2491
+<< metal3 >>
+rect 424 2437 480 2491
 << via2 >>
-rect 1204 1624 1300 1664
-<< via1 >>
-rect 1204 1624 1300 1664
-<< m1 >>
-rect 1197 1617 1307 1671
-<< m2 >>
-rect 1197 1617 1307 1671
-<< m3 >>
-rect 1197 1617 1307 1671
+rect 431 2444 473 2484
+<< metal2 >>
+rect 424 2437 480 2491
+<< metal3 >>
+rect 424 2437 480 2491
 << via2 >>
-rect 1204 1624 1300 1664
-<< via1 >>
-rect 1204 1624 1300 1664
-<< m1 >>
-rect 365 677 411 731
-<< m2 >>
-rect 365 677 411 731
-<< via1 >>
-rect 372 684 404 724
-<< m1 >>
-rect 941 677 987 731
-<< m2 >>
-rect 941 677 987 731
-<< via1 >>
-rect 948 684 980 724
-<< m1 >>
-rect 941 677 987 731
-<< m2 >>
-rect 941 677 987 731
-<< via1 >>
-rect 948 684 980 724
-<< m1 >>
-rect 429 2297 539 2351
-<< m2 >>
-rect 429 2297 539 2351
-<< via1 >>
-rect 436 2304 532 2344
-<< m1 >>
-rect 429 2297 539 2351
-<< m2 >>
-rect 429 2297 539 2351
-<< via1 >>
-rect 436 2304 532 2344
-<< m1 >>
-rect 1005 2297 1115 2351
-<< m2 >>
-rect 1005 2297 1115 2351
-<< via1 >>
-rect 1012 2304 1108 2344
-<< m1 >>
-rect 429 1897 539 1951
-<< m2 >>
-rect 429 1897 539 1951
-<< via1 >>
-rect 436 1904 532 1944
-<< m1 >>
-rect 429 1897 539 1951
-<< m2 >>
-rect 429 1897 539 1951
-<< via1 >>
-rect 436 1904 532 1944
-<< m1 >>
-rect 1005 1897 1115 1951
-<< m2 >>
-rect 1005 1897 1115 1951
-<< via1 >>
-rect 1012 1904 1108 1944
-<< m1 >>
-rect 1005 1897 1115 1951
-<< m2 >>
-rect 1005 1897 1115 1951
-<< via1 >>
-rect 1012 1904 1108 1944
-<< m1 >>
-rect 429 3097 539 3151
-<< m2 >>
-rect 429 3097 539 3151
-<< via1 >>
-rect 436 3104 532 3144
-<< m1 >>
-rect 429 3097 539 3151
-<< m2 >>
-rect 429 3097 539 3151
-<< via1 >>
-rect 436 3104 532 3144
-<< m1 >>
-rect 1005 3097 1115 3151
-<< m2 >>
-rect 1005 3097 1115 3151
-<< via1 >>
-rect 1012 3104 1108 3144
-<< m1 >>
-rect 1005 3097 1115 3151
-<< m2 >>
-rect 1005 3097 1115 3151
-<< via1 >>
-rect 1012 3104 1108 3144
-<< m1 >>
-rect 1005 2697 1115 2751
-<< m2 >>
-rect 1005 2697 1115 2751
-<< via1 >>
-rect 1012 2704 1108 2744
-<< m1 >>
-rect 1005 2697 1115 2751
-<< m2 >>
-rect 1005 2697 1115 2751
-<< via1 >>
-rect 1012 2704 1108 2744
-<< m1 >>
-rect 429 2697 539 2751
-<< m2 >>
-rect 429 2697 539 2751
-<< via1 >>
-rect 436 2704 532 2744
-<< m1 >>
-rect 429 2697 539 2751
-<< m2 >>
-rect 429 2697 539 2751
-<< via1 >>
-rect 436 2704 532 2744
-<< m1 >>
-rect 1197 3217 1307 3271
-<< m2 >>
-rect 1197 3217 1307 3271
-<< via1 >>
-rect 1204 3224 1300 3264
-<< m1 >>
-rect 941 3377 987 3431
-<< m2 >>
-rect 941 3377 987 3431
-<< via1 >>
-rect 948 3384 980 3424
-<< m1 >>
-rect 941 3377 987 3431
-<< m2 >>
-rect 941 3377 987 3431
-<< via1 >>
-rect 948 3384 980 3424
-<< m1 >>
-rect 365 3377 411 3431
-<< m2 >>
-rect 365 3377 411 3431
-<< via1 >>
-rect 372 3384 404 3424
-<< locali >>
-rect 3547 1653 3705 1787
-<< m1 >>
-rect 3547 1653 3705 1787
-<< m2 >>
-rect 3547 1653 3705 1787
-<< m3 >>
-rect 3547 1653 3705 1787
+rect 431 2444 473 2484
+<< metal2 >>
+rect 1180 737 1236 791
+<< metal3 >>
+rect 1180 737 1236 791
 << via2 >>
-rect 3554 1660 3698 1780
-<< via1 >>
-rect 3554 1660 3698 1780
-<< viali >>
-rect 3554 1660 3698 1780
-<< locali >>
-rect 1819 1653 1977 1787
-<< m1 >>
-rect 1819 1653 1977 1787
-<< m2 >>
-rect 1819 1653 1977 1787
-<< via1 >>
-rect 1826 1660 1970 1780
-<< viali >>
-rect 1826 1660 1970 1780
-<< locali >>
-rect 3547 5193 3705 5327
-<< m1 >>
-rect 3547 5193 3705 5327
-<< m2 >>
-rect 3547 5193 3705 5327
-<< via1 >>
-rect 3554 5200 3698 5320
-<< viali >>
-rect 3554 5200 3698 5320
-<< locali >>
-rect 1819 5193 1977 5327
-<< m1 >>
-rect 1819 5193 1977 5327
-<< m2 >>
-rect 1819 5193 1977 5327
-<< m3 >>
-rect 1819 5193 1977 5327
+rect 1187 744 1229 784
+<< metal2 >>
+rect 424 737 480 791
+<< metal3 >>
+rect 424 737 480 791
 << via2 >>
-rect 1826 5200 1970 5320
-<< via1 >>
-rect 1826 5200 1970 5320
-<< viali >>
-rect 1826 5200 1970 5320
-<< locali >>
-rect 3547 3423 3705 3557
-<< m1 >>
-rect 3547 3423 3705 3557
-<< m2 >>
-rect 3547 3423 3705 3557
-<< m3 >>
-rect 3547 3423 3705 3557
+rect 431 744 473 784
+<< metal2 >>
+rect 424 737 480 791
+<< metal3 >>
+rect 424 737 480 791
 << via2 >>
-rect 3554 3430 3698 3550
+rect 431 744 473 784
+<< metal2 >>
+rect 1516 2277 1656 2331
+<< metal3 >>
+rect 1516 2277 1656 2331
+<< via2 >>
+rect 1523 2284 1649 2324
+<< metal2 >>
+rect 1516 2277 1656 2331
+<< metal3 >>
+rect 1516 2277 1656 2331
+<< via2 >>
+rect 1523 2284 1649 2324
+<< metal2 >>
+rect 760 2277 900 2331
+<< metal3 >>
+rect 760 2277 900 2331
+<< metal4 >>
+rect 760 2277 900 2331
+<< via3 >>
+rect 767 2284 893 2324
+<< via2 >>
+rect 767 2284 893 2324
+<< metal2 >>
+rect 760 2277 900 2331
+<< metal3 >>
+rect 760 2277 900 2331
+<< via2 >>
+rect 767 2284 893 2324
+<< metal2 >>
+rect 1516 577 1656 631
+<< metal3 >>
+rect 1516 577 1656 631
+<< via2 >>
+rect 1523 584 1649 624
+<< metal2 >>
+rect 1516 577 1656 631
+<< metal3 >>
+rect 1516 577 1656 631
+<< via2 >>
+rect 1523 584 1649 624
+<< metal2 >>
+rect 760 577 900 631
+<< metal3 >>
+rect 760 577 900 631
+<< via2 >>
+rect 767 584 893 624
+<< metal2 >>
+rect 760 3293 900 3347
+<< metal3 >>
+rect 760 3293 900 3347
+<< metal4 >>
+rect 760 3293 900 3347
+<< via3 >>
+rect 767 3300 893 3340
+<< via2 >>
+rect 767 3300 893 3340
+<< metal2 >>
+rect 760 977 900 1031
+<< metal3 >>
+rect 760 977 900 1031
+<< via2 >>
+rect 767 984 893 1024
+<< metal2 >>
+rect 1516 977 1656 1031
+<< metal3 >>
+rect 1516 977 1656 1031
+<< via2 >>
+rect 1523 984 1649 1024
+<< metal2 >>
+rect 1516 977 1656 1031
+<< metal3 >>
+rect 1516 977 1656 1031
+<< via2 >>
+rect 1523 984 1649 1024
+<< metal2 >>
+rect 1516 1777 1656 1831
+<< metal3 >>
+rect 1516 1777 1656 1831
+<< via2 >>
+rect 1523 1784 1649 1824
+<< metal2 >>
+rect 1516 1777 1656 1831
+<< metal3 >>
+rect 1516 1777 1656 1831
+<< via2 >>
+rect 1523 1784 1649 1824
+<< metal2 >>
+rect 760 1777 900 1831
+<< metal3 >>
+rect 760 1777 900 1831
+<< via2 >>
+rect 767 1784 893 1824
+<< metal2 >>
+rect 760 1777 900 1831
+<< metal3 >>
+rect 760 1777 900 1831
+<< via2 >>
+rect 767 1784 893 1824
+<< metal2 >>
+rect 1180 3453 1236 3507
+<< metal3 >>
+rect 1180 3453 1236 3507
+<< via2 >>
+rect 1187 3460 1229 3500
+<< metal2 >>
+rect 424 3453 480 3507
+<< metal3 >>
+rect 424 3453 480 3507
+<< via2 >>
+rect 431 3460 473 3500
+<< metal2 >>
+rect 424 3453 480 3507
+<< metal3 >>
+rect 424 3453 480 3507
+<< via2 >>
+rect 431 3460 473 3500
+<< metal2 >>
+rect 508 1257 648 1311
+<< metal3 >>
+rect 508 1257 648 1311
+<< via2 >>
+rect 515 1264 641 1304
+<< metal2 >>
+rect 508 1257 648 1311
+<< metal3 >>
+rect 508 1257 648 1311
+<< metal4 >>
+rect 508 1257 648 1311
+<< via3 >>
+rect 515 1264 641 1304
+<< via2 >>
+rect 515 1264 641 1304
+<< metal2 >>
+rect 1264 1257 1404 1311
+<< metal3 >>
+rect 1264 1257 1404 1311
+<< metal4 >>
+rect 1264 1257 1404 1311
+<< via3 >>
+rect 1271 1264 1397 1304
+<< via2 >>
+rect 1271 1264 1397 1304
+<< metal2 >>
+rect 1264 1257 1404 1311
+<< metal3 >>
+rect 1264 1257 1404 1311
+<< metal4 >>
+rect 1264 1257 1404 1311
+<< via3 >>
+rect 1271 1264 1397 1304
+<< via2 >>
+rect 1271 1264 1397 1304
+<< metal2 >>
+rect 1264 1257 1404 1311
+<< metal3 >>
+rect 1264 1257 1404 1311
+<< via2 >>
+rect 1271 1264 1397 1304
+<< metal2 >>
+rect 1264 2057 1404 2111
+<< metal3 >>
+rect 1264 2057 1404 2111
+<< via2 >>
+rect 1271 2064 1397 2104
+<< metal2 >>
+rect 1264 2057 1404 2111
+<< metal3 >>
+rect 1264 2057 1404 2111
+<< metal4 >>
+rect 1264 2057 1404 2111
+<< via3 >>
+rect 1271 2064 1397 2104
+<< via2 >>
+rect 1271 2064 1397 2104
+<< metal2 >>
+rect 508 2057 648 2111
+<< metal3 >>
+rect 508 2057 648 2111
+<< metal4 >>
+rect 508 2057 648 2111
+<< via3 >>
+rect 515 2064 641 2104
+<< via2 >>
+rect 515 2064 641 2104
+<< metal2 >>
+rect 508 2057 648 2111
+<< metal3 >>
+rect 508 2057 648 2111
+<< via2 >>
+rect 515 2064 641 2104
+<< metal2 >>
+rect 1264 2557 1404 2611
+<< metal3 >>
+rect 1264 2557 1404 2611
+<< metal4 >>
+rect 1264 2557 1404 2611
+<< via3 >>
+rect 1271 2564 1397 2604
+<< via2 >>
+rect 1271 2564 1397 2604
+<< metal2 >>
+rect 1264 2557 1404 2611
+<< metal3 >>
+rect 1264 2557 1404 2611
+<< via2 >>
+rect 1271 2564 1397 2604
+<< metal2 >>
+rect 508 2557 648 2611
+<< metal3 >>
+rect 508 2557 648 2611
+<< via2 >>
+rect 515 2564 641 2604
+<< metal2 >>
+rect 508 2557 648 2611
+<< metal3 >>
+rect 508 2557 648 2611
+<< metal4 >>
+rect 508 2557 648 2611
+<< via3 >>
+rect 515 2564 641 2604
+<< via2 >>
+rect 515 2564 641 2604
+<< metal2 >>
+rect 1264 857 1404 911
+<< metal3 >>
+rect 1264 857 1404 911
+<< metal4 >>
+rect 1264 857 1404 911
+<< via3 >>
+rect 1271 864 1397 904
+<< via2 >>
+rect 1271 864 1397 904
+<< metal2 >>
+rect 1264 857 1404 911
+<< metal3 >>
+rect 1264 857 1404 911
+<< metal4 >>
+rect 1264 857 1404 911
+<< via3 >>
+rect 1271 864 1397 904
+<< via2 >>
+rect 1271 864 1397 904
+<< metal2 >>
+rect 508 857 648 911
+<< metal3 >>
+rect 508 857 648 911
+<< metal4 >>
+rect 508 857 648 911
+<< via3 >>
+rect 515 864 641 904
+<< via2 >>
+rect 515 864 641 904
+<< metal2 >>
+rect 1516 1377 1656 1431
+<< metal3 >>
+rect 1516 1377 1656 1431
+<< via2 >>
+rect 1523 1384 1649 1424
+<< metal2 >>
+rect 1180 1537 1236 1591
+<< metal3 >>
+rect 1180 1537 1236 1591
+<< via2 >>
+rect 1187 1544 1229 1584
+<< metal2 >>
+rect 1180 1537 1236 1591
+<< metal3 >>
+rect 1180 1537 1236 1591
+<< via2 >>
+rect 1187 1544 1229 1584
+<< metal2 >>
+rect 424 1537 480 1591
+<< metal3 >>
+rect 424 1537 480 1591
+<< via2 >>
+rect 431 1544 473 1584
+<< metal1 >>
+rect 5174 913 5386 967
+<< metal2 >>
+rect 5174 913 5386 967
+<< metal3 >>
+rect 5174 913 5386 967
+<< metal4 >>
+rect 5174 913 5386 967
+<< via3 >>
+rect 5181 920 5379 960
+<< via2 >>
+rect 5181 920 5379 960
 << via1 >>
-rect 3554 3430 3698 3550
-<< viali >>
-rect 3554 3430 3698 3550
+rect 5181 920 5379 960
+<< metal1 >>
+rect 2138 913 2350 967
+<< metal2 >>
+rect 2138 913 2350 967
+<< metal3 >>
+rect 2138 913 2350 967
+<< via2 >>
+rect 2145 920 2343 960
+<< via1 >>
+rect 2145 920 2343 960
+<< metal1 >>
+rect 5174 2773 5386 2827
+<< metal2 >>
+rect 5174 2773 5386 2827
+<< metal3 >>
+rect 5174 2773 5386 2827
+<< via2 >>
+rect 5181 2780 5379 2820
+<< via1 >>
+rect 5181 2780 5379 2820
+<< metal1 >>
+rect 2138 2773 2350 2827
+<< metal2 >>
+rect 2138 2773 2350 2827
+<< metal3 >>
+rect 2138 2773 2350 2827
+<< metal4 >>
+rect 2138 2773 2350 2827
+<< via3 >>
+rect 2145 2780 2343 2820
+<< via2 >>
+rect 2145 2780 2343 2820
+<< via1 >>
+rect 2145 2780 2343 2820
+<< metal1 >>
+rect 5174 1843 5386 1897
+<< metal2 >>
+rect 5174 1843 5386 1897
+<< metal3 >>
+rect 5174 1843 5386 1897
+<< metal4 >>
+rect 5174 1843 5386 1897
+<< via3 >>
+rect 5181 1850 5379 1890
+<< via2 >>
+rect 5181 1850 5379 1890
+<< via1 >>
+rect 5181 1850 5379 1890
 << labels >>
-flabel m2 s 820 2187 963 2217 0 FreeSans 400 0 0 0 IN+
+flabel metal3 s 454 1947 1221 1977 0 FreeSans 400 0 0 0 IN+
 port 4 nsew signal bidirectional
-flabel m2 s 820 2987 963 3017 0 FreeSans 400 0 0 0 IN-
+flabel metal3 s 439 749 1206 779 0 FreeSans 400 0 0 0 IN-
 port 5 nsew signal bidirectional
-flabel locali s 0 5610 4080 5660 0 FreeSans 400 0 0 0 VDD
+flabel metal1 s 0 3830 5686 3880 0 FreeSans 400 0 0 0 VDD
 port 6 nsew signal bidirectional
-flabel locali s 100 5510 3980 5560 0 FreeSans 400 0 0 0 VSS
+flabel metal1 s 100 3730 5586 3780 0 FreeSans 400 0 0 0 VSS
 port 7 nsew signal bidirectional
-flabel m2 s 1251 523 1410 553 0 FreeSans 400 0 0 0 OUT
+flabel metal4 s 808 2285 838 3324 0 FreeSans 400 0 0 0 OUT
 port 8 nsew signal bidirectional
 << properties >>
 << end >>

@@ -4,177 +4,149 @@ K {}
 V {}
 S {}
 E {}
-N 770 -360 770 -320 {
+N 760 -420 760 -380 {
 lab=#net1}
-N 400 -320 770 -320 {
+N 580 -380 760 -380 {
 lab=#net1}
-N 400 -360 400 -320 {
+N 390 -420 390 -380 {
 lab=#net1}
-N 590 -320 590 -290 {
+N 580 -380 580 -350 {
 lab=#net1}
-N 800 -630 800 -580 {
+N 790 -690 790 -640 {
 lab=#net2}
-N 362.5 -740 362.5 -690 {
+N 352.5 -800 352.5 -720 {
 lab=VDD}
-N 362.5 -740 800 -740 {
+N 680 -800 790 -800 {
 lab=VDD}
-N 800 -740 800 -690 {
+N 790 -800 790 -720 {
 lab=VDD}
-N 362.5 -690 362.5 -660 {
-lab=VDD}
-N 800 -690 800 -660 {
-lab=VDD}
-N 840 -660 840 -580 {
+N 830 -720 830 -640 {
 lab=#net2}
-N 800 -580 840 -580 {
+N 790 -640 830 -640 {
 lab=#net2}
-N 322.5 -660 322.5 -580 {
+N 312.5 -720 312.5 -640 {
 lab=#net3}
-N 322.5 -580 362.5 -580 {
+N 312.5 -640 352.5 -640 {
 lab=#net3}
-N 840 -660 930 -660 {
+N 830 -720 920 -720 {
 lab=#net2}
-N 200 -660 322.5 -660 {
+N 190 -720 312.5 -720 {
 lab=#net3}
-N 970 -630 970 -180 {
-lab=VO}
-N 200 -150 930 -150 {
+N 225 -210 920 -210 {
 lab=#net4}
-N 160 -630 160 -180 {
+N 150 -280 150 -240 {
 lab=#net4}
-N 160 -220 235 -220 {
+N 150 -280 225 -280 {
 lab=#net4}
-N 235 -220 235 -150 {
+N 225 -280 225 -210 {
 lab=#net4}
-N 970 -740 970 -690 {
+N 960 -800 960 -720 {
 lab=VDD}
-N 800 -740 970 -740 {
+N 790 -800 960 -800 {
 lab=VDD}
-N 160 -740 160 -690 {
+N 150 -800 150 -720 {
 lab=VDD}
-N 160 -740 362.5 -740 {
+N 150 -800 352.5 -800 {
 lab=VDD}
-N 160 -120 160 -70 {
+N 700 -130 960 -130 {
 lab=VSS}
-N 160 -70 970 -70 {
+N 960 -210 960 -130 {
 lab=VSS}
-N 970 -120 970 -70 {
+N 150 -210 150 -130 {
 lab=VSS}
-N 970 -150 970 -120 {
+N 580 -320 580 -130 {
 lab=VSS}
-N 160 -150 160 -120 {
-lab=VSS}
-N 590 -260 590 -230 {
-lab=VSS}
-N 160 -690 160 -660 {
-lab=VDD}
-N 970 -690 970 -660 {
-lab=VDD}
-N 320 -260 550 -260 {
+N 330 -320 540 -320 {
 lab=I_BIAS}
-N 280 -260 280 -230 {
+N 270 -320 270 -130 {
 lab=VSS}
-N 810 -390 840 -390 {
+N 800 -450 830 -450 {
 lab=VIN}
-N 280 -350 340 -350 {
+N 270 -410 330 -410 {
 lab=I_BIAS}
-N 340 -350 340 -310 {
+N 330 -410 330 -320 {
 lab=I_BIAS}
-N 340 -310 340 -260 {
-lab=I_BIAS}
-N 362.5 -580 395 -580 {
+N 352.5 -640 390 -640 {
 lab=#net3}
-N 770 -580 800 -580 {
+N 760 -640 790 -640 {
 lab=#net2}
-N 267.5 -350 280 -350 {
+N 230 -410 270 -410 {
 lab=I_BIAS}
-N 240 -350 267.5 -350 {
-lab=I_BIAS}
-N 132.5 -740 160 -740 {
+N 122.5 -800 150 -800 {
 lab=VDD}
-N 490 -740 490 -690 {
+N 480 -800 480 -720 {
 lab=VDD}
-N 490 -630 490 -580 {
+N 480 -690 480 -640 {
 lab=#net3}
-N 485 -580 490 -580 {
+N 390 -640 480 -640 {
 lab=#net3}
-N 690 -690 690 -660 {
-lab=VDD}
-N 395 -580 485 -580 {
-lab=#net3}
-N 690 -630 690 -582.5 {
+N 680 -690 680 -640 {
 lab=#net2}
-N 490 -690 490 -660 {
-lab=VDD}
-N 362.5 -630 362.5 -580 {
+N 352.5 -690 352.5 -640 {
 lab=#net3}
-N 400 -580 400 -420 {
+N 390 -640 390 -480 {
 lab=#net3}
-N 770 -580 770 -420 {
+N 760 -640 760 -480 {
 lab=#net2}
-N 280 -230 280 -70 {
+N 95 -130 150 -130 {
 lab=VSS}
-N 590 -230 590 -70 {
-lab=VSS}
-N 105 -70 160 -70 {
-lab=VSS}
-N 700 -580 770 -580 {
-lab=#net2}
-N 690 -740 690 -690 {
+N 680 -800 680 -720 {
 lab=VDD}
-N 690 -582.5 690 -580 {
+N 680 -640 760 -640 {
 lab=#net2}
-N 690 -580 700 -580 {
-lab=#net2}
-N 970 -410 1000 -410 {
+N 960 -470 990 -470 {
 lab=VO}
-N 330 -390 360 -390 {
+N 320 -450 350 -450 {
 lab=VIP}
-N 280 -350 280 -290 {
+N 270 -410 270 -350 {
 lab=I_BIAS}
-N 490 -580 650 -660 {
+N 480 -640 640 -720 {
 lab=#net3}
-N 530 -660 690 -580 {
+N 520 -720 680 -640 {
 lab=#net2}
-N 400 -390 770 -390 {
+N 700 -450 760 -450 {lab=VSS}
+N 700 -450 700 -130 {lab=VSS}
+N 390 -380 580 -380 {
+lab=#net1}
+N 150 -690 150 -280 {
+lab=#net4}
+N 190 -210 225 -210 {
+lab=#net4}
+N 310 -320 330 -320 {
+lab=I_BIAS}
+N 352.5 -800 480 -800 {
+lab=VDD}
+N 150 -130 270 -130 {
 lab=VSS}
-N 710 -390 710 -70 {
+N 270 -130 580 -130 {
 lab=VSS}
-N 0 -710 160 -710 {lab=VDD}
-N 0 -710 0 -460 {lab=VDD}
-N 0 -360 0 -90 {lab=VSS}
-N 0 -90 140 -90 {lab=VSS}
-N 140 -90 140 -70 {lab=VSS}
-N -80 -430 -80 -390 {lab=VO}
-N -80 -520 -80 -430 {lab=VO}
-N -80 -520 970 -520 {lab=VO}
-N 80 -410 260 -410 {lab=I_BIAS}
-N 260 -410 260 -350 {lab=I_BIAS}
-N 1160 -740 1160 -460 {lab=VDD}
-N 970 -740 1160 -740 {lab=VDD}
-N 1160 -360 1160 -70 {lab=VSS}
-N 970 -70 1160 -70 {lab=VSS}
-C {devices/ipin.sym} 105 -70 0 0 {name=p3 lab=VSS}
-C {devices/ipin.sym} 132.5 -740 0 0 {name=p1 lab=VDD}
-C {devices/ipin.sym} 330 -390 0 0 {name=p5 lab=VIP}
-C {devices/ipin.sym} 840 -390 0 1 {name=p6 lab=VIN}
-C {JNW_ATR_SKY130A/JNWATR_NCH_4C5F0.sym} 360 -390 0 0 {name=xdiff1_MN1
+N 480 -800 680 -800 {
+lab=VDD}
+N 960 -690 960 -470 {
+lab=VO}
+N 390 -450 700 -450 {lab=VSS}
+N 580 -130 700 -130 {
+lab=VSS}
+N 960 -470 960 -240 {
+lab=VO}
+C {devices/ipin.sym} 95 -130 0 0 {name=p3 lab=VSS}
+C {devices/ipin.sym} 122.5 -800 0 0 {name=p1 lab=VDD}
+C {devices/ipin.sym} 320 -450 0 0 {name=p5 lab=VIP}
+C {devices/ipin.sym} 830 -450 0 1 {name=p6 lab=VIN}
+C {LELO_ATR_IHP13G2/LELOATR_NCH_4C5F0.sym} 350 -450 0 0 {name=xdiff1_MN1
 }
-C {JNW_ATR_SKY130A/JNWATR_NCH_4C5F0.sym} 810 -390 0 1 {name=xdiff1_MN2
+C {LELO_ATR_IHP13G2/LELOATR_NCH_4C5F0.sym} 800 -450 0 1 {name=xdiff1_MN2
 }
-C {JNW_ATR_SKY130A/JNWATR_PCH_12C5F0.sym} 840 -660 0 1 {name=xload1_MP5 }
-C {JNW_ATR_SKY130A/JNWATR_PCH_12C5F0.sym} 930 -660 0 0 {name=xload1_MP6}
-C {JNW_ATR_SKY130A/JNWATR_PCH_12C5F0.sym} 200 -660 0 1 {name=xload1_MP1}
-C {JNW_ATR_SKY130A/JNWATR_PCH_12C5F0.sym} 322.5 -660 0 0 {name=xload1_MP2}
-C {JNW_ATR_SKY130A/JNWATR_NCH_4C5F0.sym} 550 -260 0 0 {name=xmirror2_MN4 }
-C {JNW_ATR_SKY130A/JNWATR_NCH_4C5F0.sym} 320 -260 0 1 {name=xmirror2_MN3 }
-C {JNW_ATR_SKY130A/JNWATR_NCH_4C5F0.sym} 200 -150 0 1 {name=xmirror1_MN5 }
-C {JNW_ATR_SKY130A/JNWATR_NCH_4C5F0.sym} 930 -150 0 0 {name=xmirror1_MN6}
-C {JNW_ATR_SKY130A/JNWATR_PCH_12C5F0.sym} 530 -660 0 1 {name=xload1_MP3
+C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} 830 -720 0 1 {name=xload1_MP5 }
+C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} 920 -720 0 0 {name=xload1_MP6}
+C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} 190 -720 0 1 {name=xload1_MP1}
+C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} 312.5 -720 0 0 {name=xload1_MP2}
+C {LELO_ATR_IHP13G2/LELOATR_NCH_4C5F0.sym} 540 -320 0 0 {name=xmirror2_MN4 }
+C {LELO_ATR_IHP13G2/LELOATR_NCH_4C5F0.sym} 310 -320 0 1 {name=xmirror2_MN3 }
+C {LELO_ATR_IHP13G2/LELOATR_NCH_4C5F0.sym} 190 -210 0 1 {name=xmirror1_MN5 }
+C {LELO_ATR_IHP13G2/LELOATR_NCH_4C5F0.sym} 920 -210 0 0 {name=xmirror1_MN6}
+C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} 520 -720 0 1 {name=xload1_MP3
 }
-C {JNW_ATR_SKY130A/JNWATR_PCH_12C5F0.sym} 650 -660 0 0 {name=xload1_MP4}
-C {devices/opin.sym} 1000 -410 0 0 {name=p4 lab=VO}
-C {devices/ipin.sym} 240 -350 0 0 {name=p2 lab=I_BIAS}
-C {JNW_BKLE_SKY130A/COMP2.sym} -120 -510 0 0 {name=xU1}
-C {JNW_BKLE_SKY130A/COMP2.sym} 1040 -510 0 0 {name=xU2}
-C {JNW_BKLE_SKY130A/COMP3.sym} 1340 -480 0 0 {name=xU3}
+C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} 640 -720 0 0 {name=xload1_MP4}
+C {devices/opin.sym} 990 -470 0 0 {name=p4 lab=VO}
+C {devices/ipin.sym} 230 -410 0 0 {name=p2 lab=I_BIAS}
