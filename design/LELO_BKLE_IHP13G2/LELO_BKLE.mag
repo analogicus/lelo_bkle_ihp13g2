@@ -1,23 +1,23 @@
 magic
 tech ihp-sg13g2
 magscale 1 1
-timestamp 1747934190
+timestamp 1747994531
 << checkpaint >>
 rect 0 0 1 1
 << metal1 >>
-rect -100 4156 5700 4206
+rect -100 4030 5765 4080
 << metal1 >>
-rect -100 -100 5700 -50
+rect -100 -100 5765 -50
 << metal2 >>
-rect -100 -50 -50 4156
+rect -100 -50 -50 4030
 << metal2 >>
-rect 5650 -50 5700 4156
+rect 5715 -50 5765 4030
 << metal1 >>
-rect -107 4149 -43 4213
+rect -107 4023 -43 4087
 << metal2 >>
-rect -107 4149 -43 4213
+rect -107 4023 -43 4087
 << via1 >>
-rect -100 4156 -50 4206
+rect -100 4030 -50 4080
 << metal1 >>
 rect -107 -107 -43 -43
 << metal2 >>
@@ -25,31 +25,31 @@ rect -107 -107 -43 -43
 << via1 >>
 rect -100 -100 -50 -50
 << metal1 >>
-rect 5643 4149 5707 4213
+rect 5708 4023 5772 4087
 << metal2 >>
-rect 5643 4149 5707 4213
+rect 5708 4023 5772 4087
 << via1 >>
-rect 5650 4156 5700 4206
+rect 5715 4030 5765 4080
 << metal1 >>
-rect 5643 -107 5707 -43
+rect 5708 -107 5772 -43
 << metal2 >>
-rect 5643 -107 5707 -43
+rect 5708 -107 5772 -43
 << via1 >>
-rect 5650 -100 5700 -50
+rect 5715 -100 5765 -50
 << metal1 >>
-rect -200 4256 5800 4306
+rect -200 4130 5865 4180
 << metal1 >>
-rect -200 -200 5800 -150
+rect -200 -200 5865 -150
 << metal2 >>
-rect -200 -150 -150 4256
+rect -200 -150 -150 4130
 << metal2 >>
-rect 5750 -150 5800 4256
+rect 5815 -150 5865 4130
 << metal1 >>
-rect -207 4249 -143 4313
+rect -207 4123 -143 4187
 << metal2 >>
-rect -207 4249 -143 4313
+rect -207 4123 -143 4187
 << via1 >>
-rect -200 4256 -150 4306
+rect -200 4130 -150 4180
 << metal1 >>
 rect -207 -207 -143 -143
 << metal2 >>
@@ -57,24 +57,24 @@ rect -207 -207 -143 -143
 << via1 >>
 rect -200 -200 -150 -150
 << metal1 >>
-rect 5743 4249 5807 4313
+rect 5808 4123 5872 4187
 << metal2 >>
-rect 5743 4249 5807 4313
+rect 5808 4123 5872 4187
 << via1 >>
-rect 5750 4256 5800 4306
+rect 5815 4130 5865 4180
 << metal1 >>
-rect 5743 -207 5807 -143
+rect 5808 -207 5872 -143
 << metal2 >>
-rect 5743 -207 5807 -143
+rect 5808 -207 5872 -143
 << via1 >>
-rect 5750 -200 5800 -150
+rect 5815 -200 5865 -150
 use OTA U1_OTA 
 transform 1 0 0 0 1 0
-box 0 0 5650 4156
+box 0 0 5715 4030
 << labels >>
-flabel metal1 s -200 4256 5800 4306 0 FreeSans 400 0 0 0 VDD_1V8
+flabel metal1 s -200 4130 5865 4180 0 FreeSans 400 0 0 0 VDD_1V8
 port 51 nsew signal bidirectional
-flabel metal1 s -100 4156 5700 4206 0 FreeSans 400 0 0 0 VSS
+flabel metal1 s -100 4030 5765 4080 0 FreeSans 400 0 0 0 VSS
 port 52 nsew signal bidirectional
 << properties >>
 << end >>
