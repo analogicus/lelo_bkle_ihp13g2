@@ -1,7 +1,7 @@
 
 
 # Who
-bjs1
+Bjørn and Leidulv
 
 # Why
 
