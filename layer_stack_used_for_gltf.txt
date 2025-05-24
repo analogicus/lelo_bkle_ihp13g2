@@ -4,10 +4,10 @@ layerstack = {
     # (65,44): {'name':'tap', 'zmin':0, 'zmax':0.1, 'color':[0.4, 0.4, 0.4, 1.0]},  # no direct match
     (1, 0): {'name': 'diff', 'zmin': -0.12, 'zmax': 0.02, 'color': [0.9, 0.9, 0.9, 1.0]},
     (5, 0): {'name': 'poly', 'zmin': 0, 'zmax': 0.18, 'color': [0.75, 0.35, 0.46, 1.0]},
-    (7, 0): {'name': 'polyres', 'zmin': 0, 'zmax': 0.18, 'color': [0.85, 0.2, 0.3, 1.0]},
-    (6, 0): {'name': 'licon', 'zmin': 0, 'zmax': 0.936, 'color': [0.2, 0.2, 0.2, 1.0]},  # assuming CONT = licon
-    (8, 0): {'name': 'li1', 'zmin': 0.936, 'zmax': 1.136, 'color': [1.0, 0.81, 0.55, 1.0]},  # mapped to MET1
-    (19, 0): {'name': 'mcon', 'zmin': 1.011, 'zmax': 1.376, 'color': [0.2, 0.2, 0.2, 1.0]},  # VIA1 = mcon
+    (52, 0): {'name': 'xpolyres', 'zmin': 0, 'zmax': 0.18, 'color': [0.85, 0.2, 0.3, 1.0]},
+    (6, 0): {'name': 'licon', 'zmin': 0, 'zmax': 0.936, 'color': [0.2, 0.2, 0.2, 1.0]},  # CONT
+    (8, 0): {'name': 'li1', 'zmin': 0.936, 'zmax': 1.136, 'color': [1.0, 0.81, 0.55, 1.0]},  # MET1
+    (19, 0): {'name': 'mcon', 'zmin': 1.011, 'zmax': 1.376, 'color': [0.2, 0.2, 0.2, 1.0]},  # VIA1
     (10, 0): {'name': 'met1', 'zmin': 1.376, 'zmax': 1.736, 'color': [0.16, 0.38, 0.83, 1.0]},
     (29, 0): {'name': 'via', 'zmin': 1.736, 'zmax': 2, 'color': [0.2, 0.2, 0.2, 1.0]},  # VIA2
     (30, 0): {'name': 'met2', 'zmin': 2, 'zmax': 2.36, 'color': [0.65, 0.75, 0.9, 1.0]},
