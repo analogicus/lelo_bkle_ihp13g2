@@ -1,37 +1,17 @@
+# LELO_BKLE_IHP13G2
+<!--- ################################################################################################################# --->
 
+This is a test repository used while developing the Master thesis project 'Analog Automagic layout', available on https://github.com/Sunhome22/Analog-Automagic-Layout
 
-# Who
-Bjørn and Leidulv
-
-# Why
-
-<explain why you made this module>
-
-# How
-
-<explain short how you made this module>
-
-
-# What
-
-<explain what you made>
+<br />
+<!--- ################################################################################################################# --->
 
 
 
 
-# Signal interface
 
-| Signal    | Direction | Domain  | Description          |
-|:----------|:---------:|:-------:|:---------------------|
-| VDD_1V8   | Input     | VDD_1V8 | Main supply          |
-| VSS       | Input     | Ground  |                      |
-| PWRUP_1V8 | Input     | VDD_1V8 | Power up the circuit |
-
-
-# Key parameters
-
-| Parameter   | Min | Typ             | Max | Unit |
-|:------------|:---:|:---------------:|:---:|:----:|
-| Technology  |     | Skywater 130 nm |     |      |
-| AVDD        | 1.7 | 1.8             | 1.9 | V    |
-| Temperature | -40 | 27              | 125 | C    |
+# Contact information
+| Name                        | E-mail                |
+| :-                          | :-:                   |
+| Bjørn K.T. Solheim           | bjorn_solheim@hotmail.no  |
+| Leidulv Tønnesland           | leidulv.tonnesland@gmail.com |
