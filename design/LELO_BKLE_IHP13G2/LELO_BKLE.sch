@@ -4,13 +4,13 @@ K {}
 V {}
 S {}
 E {}
-N 100 -500 210 -500 {lab=VDD_1V8}
-N 100 -220 210 -220 {lab=VSS}
-N 210 -500 210 -400 {lab=VDD_1V8}
-N 210 -300 210 -220 {lab=VSS}
-C {cborder/border_s.sym} 520 -10 0 0 {
+N 1150 -720 1260 -720 {lab=VDD_1V8}
+N 1150 -440 1260 -440 {lab=VSS}
+N 1260 -720 1260 -620 {lab=VDD_1V8}
+N 1260 -520 1260 -440 {lab=VSS}
+C {cborder/border_s.sym} 1570 -230 0 0 {
 user="Carsten Wulff"
 company="Wulff Consulting AS"}
-C {devices/ipin.sym} 100 -500 0 0 {name=p1 lab=VDD_1V8}
-C {devices/ipin.sym} 100 -220 0 0 {name=p2 lab=VSS}
-C {LELO_BKLE_IHP13G2/COMP2.sym} 90 -450 0 0 {name=xU1}
+C {devices/ipin.sym} 1150 -720 0 0 {name=p1 lab=VDD_1V8}
+C {devices/ipin.sym} 1150 -440 0 0 {name=p2 lab=VSS}
+C {LELO_BKLE_IHP13G2/current_mirror_OTA.sym} 1140 -670 0 0 {name=xU1}

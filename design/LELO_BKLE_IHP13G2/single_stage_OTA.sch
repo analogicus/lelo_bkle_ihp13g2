@@ -79,14 +79,14 @@ C {devices/lab_wire.sym} -40 -140 0 0 {name=p6 sig_type=std_logic lab=OTA_SPLIT}
 C {devices/lab_wire.sym} -90 0 0 0 {name=p7 sig_type=std_logic lab=GATE}
 C {devices/lab_wire.sym} -260 -230 0 0 {name=p9 sig_type=std_logic lab=IB_GATE}
 C {devices/opin.sym} 250 0 0 0 {name=p8 lab=OUT}
-C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} -130 -70 0 0 {name=xdiff1_MP3[3:0]}
-C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} 140 -70 0 1 {name=xdiff1_MP4[3:0]}
-C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} -40 -230 0 0 {name=xmirror1_MP2}
-C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} -330 -230 0 1 {name=xmirror1_MP1}
-C {LELO_ATR_IHP13G2/LELOATR_NCH_4C5F0.sym} -50 70 0 1 {name=xmirror2_MN1}
-C {LELO_ATR_IHP13G2/LELOATR_NCH_4C5F0.sym} 60 70 0 0 {name=xmirror2_MN2}
+C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} -130 -70 0 0 {name=xdf1_MP3[3:0]}
+C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} 140 -70 0 1 {name=xdf1_MP4[3:0]}
+C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} -40 -230 0 0 {name=xmr1_MP2}
+C {LELO_ATR_IHP13G2/LELOATR_PCH_4C5F0.sym} -330 -230 0 1 {name=xmr1_MP1}
+C {LELO_ATR_IHP13G2/LELOATR_NCH_4C5F0.sym} -50 70 0 1 {name=xmr2_MN1}
+C {LELO_ATR_IHP13G2/LELOATR_NCH_4C5F0.sym} 60 70 0 0 {name=xmr2_MN2}
 C {devices/lab_wire.sym} -370 60 0 0 {name=p4 sig_type=std_logic lab=AFTER_RESISTOR2}
 C {devices/lab_wire.sym} -370 -30 0 0 {name=p10 sig_type=std_logic lab=AFTER_RESISTOR1}
-C {LELO_TR_IHP13G2/LELOTR_RPPO16.sym} -370 -110 1 0 {name=xbias1_RH1}
-C {LELO_TR_IHP13G2/LELOTR_RPPO16.sym} -370 -20 1 0 {name=xbias1_RH2}
-C {LELO_TR_IHP13G2/LELOTR_RPPO16.sym} -370 70 1 0 {name=xbias1_RH3}
+C {LELO_TR_IHP13G2/LELOTR_RPPO16.sym} -370 -110 1 0 {name=xbs1_RH1}
+C {LELO_TR_IHP13G2/LELOTR_RPPO16.sym} -370 -20 1 0 {name=xbs1_RH2}
+C {LELO_TR_IHP13G2/LELOTR_RPPO16.sym} -370 70 1 0 {name=xbs1_RH3}

@@ -14,6 +14,6 @@ LIB=LELO_BKLE_IHP13G2
 CELL=LELO_BKLE
 
 #- Provide cells you want to check for the lvsall drcall commands
-CELLS = COMP2
+CELLS = current_mirror_OTA
 
 include ../tech/make/core.make
